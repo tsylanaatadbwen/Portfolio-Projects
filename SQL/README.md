@@ -38,4 +38,4 @@ The analysis provided insights into music trends, artist popularity, and track c
 
 ## Documentation
 
-For detailed documentation, including step-by-step explanations, and the SQL code used, refer to the [[Spotify_Documentation](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/SQL/Documentation/spotify_documentation.docx)https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/SQL/Documentation/spotify_documentation.docx](link to my Word document).
+For detailed documentation, including step-by-step explanations, and the SQL code used, refer to the [Spotify_Documentation](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/SQL/Documentation/spotify_documentation.docx)

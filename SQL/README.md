@@ -6,11 +6,11 @@ This project involves the analysis of Spotify data to gain insights into music t
 
 ## SQL Script
 
-You can find the SQL script used for this analysis in the [`SQL_Project_Query_Spotify`]([link to my SQL script](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/SQL/SQL_Project_Query_Spotify.sql)) file. This script includes the creation of the database table, data insertion, data cleaning, and various SQL queries for analysis.
+You can find the SQL script used for this analysis in the [`SQL_Project_Query_Spotify`]((https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/SQL/SQL_Project_Query_Spotify.sql) file. This script includes the creation of the database table, data insertion, data cleaning, and various SQL queries for analysis.
 
 ## Data Sources
 
-The dataset used for this analysis was obtained from [Most_Streamed_Spotify]([link to the data source](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)). It contains information about songs and their attributes on Spotify.
+The dataset used for this analysis was obtained from [Most_Streamed_Spotify](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023). It contains information about songs and their attributes on Spotify.
 
 ## Results
 

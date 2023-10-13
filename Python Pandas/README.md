@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python project focuses on analyzing UFC (Ultimate Fighting Championship) rankings data. The dataset provides insights into fighter rankings, title reigns, and visualizations of UFC fighters' rankings over time. The primary purpose of this project is to showcase the author's proficiency in using the Pandas library to solve data analysis problems encountered during the analysis.
+This Python project focuses on analyzing UFC (Ultimate Fighting Championship) rankings data. The dataset provides insights into fighter rankings, title reigns, and visualizations of UFC fighters' rankings over time. The primary purpose of this project is to showcase my proficiency in using the Pandas library to solve data analysis problems encountered during the analysis.
 
 ## Data Source
 

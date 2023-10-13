@@ -18,15 +18,15 @@ In the data cleaning process, the following steps were taken:
 
 The project includes various visualizations to better understand the dataset.
 
-1. **Popularity Histogram**: A histogram displaying the distribution of popularity scores in the dataset. It reveals a notable concentration of movies with high popularity scores.
+1. **Popularity Histogram**: A histogram displaying the distribution of popularity scores in the dataset. It reveals a notable concentration of movies with high popularity scores. [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/Popularity%20Histogram.png)
 
-2. **Popularity TimeSeries**: A time series line graph showing the trend of movie popularity over time. It indicates a recent surge in popularity and intermittent spikes.
+2. **Popularity TimeSeries**: A time series line graph showing the trend of movie popularity over time. It indicates a recent surge in popularity and intermittent spikes. [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/Popularity%20Timeseries.png)
 
-3. **Vote_Average Box Plot**: A box plot illustrating the distribution of movie ratings, including central tendency, spread, and variability.
+3. **Vote_Average Box Plot**: A box plot illustrating the distribution of movie ratings, including central tendency, spread, and variability. [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/Vote%20Average%20Box%20Plot.png)
 
-4. **Ratings & Votes Scatterplot**: A scatter plot analyzing the correlation between vote counts and movie ratings. It reveals a positive but relatively weak relationship between the two variables.
+4. **Ratings & Votes Scatterplot**: A scatter plot analyzing the correlation between vote counts and movie ratings. It reveals a positive but relatively weak relationship between the two variables.[here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/Ratings%20%26%20Vote%20Scatterplot.png)
 
-5. **Genre Popularity Anlysis**: A horziontal bar chart demonstating the popularity of each genre id.
+5. **Genre Popularity Anlysis**: A horziontal bar chart demonstating the popularity of each genre id. [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/Genre%20Popularity%20Analysis.png)
 
 ## Findings
 

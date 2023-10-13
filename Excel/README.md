@@ -26,6 +26,8 @@ The project includes various visualizations to better understand the dataset.
 
 4. **Ratings & Votes Scatterplot**: A scatter plot analyzing the correlation between vote counts and movie ratings. It reveals a positive but relatively weak relationship between the two variables.
 
+5. **Genre Popularity Anlysis**: A horziontal bar chart demonstating the popularity of each genre id.
+
 ## Findings
 
 The data analysis led to the following key findings:
@@ -50,11 +52,16 @@ The data analysis led to the following key findings:
 - The correlation is relatively weak, indicating a mild positive relationship.
 - Low vote counts are concentrated in the dataset, while higher vote counts exhibit a wider range of ratings.
 
-These insights offer a better understanding of movie popularity, ratings, and the relationship between votes and ratings within the dataset.
+**Genre Popularity Analysis**:
+- Created a pivot table to analyze the relationship between genre IDs and popularity by summing the popularity values.
+- Developed a pivot chart in the form of a vertical bar chart, displaying the sum of popularity counts for different genre IDs.
+- Added a slicer to allow users to filter the genre or genres they want to view.
+
+These insights offer a comprehensive understanding of movie popularity, ratings, and the relationship between votes and ratings, along with genre-specific popularity analysis.
 
 ## Project Directory
 
-The project directory includes images of the visualizations. To check the project in Excel in detail, download it from [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/MoviesTopRated.xlsx)
+The project directory includes images of all the visualizations, including the "Genre Popularity Analysis" chart. To check the project in Excel in detail, download it from [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Excel/MoviesTopRated.xlsx) 
 
 ## Acknowledgments
 

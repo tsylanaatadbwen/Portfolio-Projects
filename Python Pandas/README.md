@@ -10,7 +10,7 @@ The data used for this analysis was obtained from Kaggle through the Kaggle API.
 
 ## Code
 
-The Python code used for this analysis can be found in the Jupyter Notebook provided as [`ufc_rankings_analysis.ipynb`](link to your Jupyter Notebook).
+The Python code used for this analysis can be found in the Jupyter Notebook provided as [`ufc_rankings_analysis.ipynb`](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Python%20Pandas/UFC_Ranking_Project.ipynb)
 
 ## Project Steps
 
@@ -38,5 +38,3 @@ The project begins with the retrieval of UFC rankings data using the Kaggle API.
 ## Results
 
 The analysis provides insights into UFC fighter rankings, title reigns, and the P4P rankings of Jon Jones. The visualizations help visualize the changes in fighter rankings over time and identify the longest-reigning champion in the UFC.
-
-For detailed code and step-by-step explanations, please refer to the [Jupyter Notebook](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Python%20Pandas/UFC_Ranking_Project.ipynb) in the project repository.

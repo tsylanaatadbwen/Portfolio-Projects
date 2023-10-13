@@ -1,0 +1,169 @@
+---
+title: "Exploratory Data Analysis Of laptops dataset"
+author: "Usama Ali"
+date: "2023-09-30"
+output: html_document
+---
+
+### Objective
+- The objective of this project was to perform an exploratory data analysis of a laptop dataset using R and ggplot2 for data visualization. The analysis aimed to extract valuable insights from the dataset and provide clear visualizations to enhance understanding.
+
+### Dataset used:
+- About: This dataset provides a comprehensive collection of information on various laptops, enabling a detailed analysis of their specifications and pricing. It encompasses a wide range of laptops, encompassing diverse brands, models, and configurations, making it a valuable resource for researchers, data analysts, and machine learning enthusiasts interested in the laptop industry.
+
+- Source: Kaggle.com
+
+- License: CCO Public Domain
+
+- Uploaded By: Juan Merino 
+
+#### Importing the libraries
+```{r import, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(skimr)
+library(markdown)
+```
+
+#### Importing Dataset
+```{r loading datset, message=FALSE, warning=FALSE}
+laptops <- read.csv('laptops.csv')
+```
+
+#### Checking for duplicates & removing
+```{r duplicates, message=FALSE, warning=FALSE, include=FALSE}
+
+#checking for duplicates
+#duplicated(laptops)
+
+#getting rid of duplicated rows
+laptops <- distinct(laptops)
+```
+
+#### Taking a look and cleaning
+```{r cleaning}
+
+#viewing the first rows and structure
+glimpse(laptops)
+
+#basic descriptive stats for our dataset & Na values
+skim_without_charts(laptops)
+
+#removing missing values
+laptops <- na.omit(laptops)
+```
+
+### Plot Analysis
+
+#### Price Distribution:
+```{r histogram}
+#histogram for price distribution
+ggplot(laptops, aes(x = Final.Price)) +
+  geom_histogram(binwidth = 200, fill="skyblue", color = 'black')+
+  labs(title = 'Distribution of Laptop Prices',
+       x = 'Final Price', y = 'Frequency')
+```
+
+- The histogram displays a right-skewed distribution. Three prominent peaks are observed, with frequencies exceeding 350 for one peak.
+
+- As prices increase beyond $300, the frequency gradually declines until the $5000 price range. Between $5000 and $6000, the distribution becomes less visible.
+Laptops priced above $6000 are exceedingly rare in the dataset.
+
+
+#### Brand Analysis - Average Price:
+```{r barchart}
+#brand analysis, avg_price for each brand bar chart
+brand_avg_prices <- laptops %>% 
+  group_by(Brand) %>% 
+  summarise(avg_price = mean(Final.Price))
+ggplot(brand_avg_prices, aes(x = Brand, y = avg_price, 
+                             fill = avg_price))+
+  geom_bar(stat = 'identity') +
+  labs(x = 'Brand', y = 'Avergae Price', 
+       title = 'Average Laptop Prices by Brand') +
+  theme(axis.text.x = element_text(angle = 45))
+```
+
+- The bar chart presents the average prices of laptops by brand.
+
+- Razer stands out as the highest-priced brand, with laptops peaking at around $3500 in average price.
+
+- Millenium and MSI are the second and third highest-priced brands, with laptops sitting near the $2000 price mark on average.
+
+- Popular brands like Apple, Microsoft, and Gigabyte have laptops priced at nearly $1500 on average.
+
+#### RAM & Price Relationship:
+```{r scatter plot}
+#RAM & Price relationship via scatter plot
+ggplot(laptops, aes(x = RAM, y = Final.Price))+
+  geom_point()+
+  labs(title = 'Scattor Plot of RAM vs Laptop Price',
+       x = "RAM", y = 'Final Price')
+```
+
+- The scatter plot reveals the relationship between laptop RAM (in GB) and prices.
+
+- For laptops with 4GB RAM, a cluster is observed in the $200-$800 price range.Laptops with 8GB RAM cluster between $200 and $2000, with fewer above $2000. The 16GB RAM category is dense, spanning $200-$4000, with fewer observations beyond $3000.
+
+-64GB RAM laptops are sparsely represented.
+An isolated 120GB RAM laptop is priced around $6000, suggesting uniqueness.
+
+#### Storage Type Distribution:
+```{r piechart}
+#distribution of storage types using pie chart
+storage_distribution <- table(laptops$Storage.type)
+pie(storage_distribution, labels = names(storage_distribution),
+    main = "Distribution of Storage Types")
+```
+
+- The pie chart illustrates the predominance of SSD storage types among laptops.
+
+- SSD storage types represent the majority of laptops in the dataset, while eMMC storage types constitute a very small proportion.
+
+
+#### Touchscreen vs. Non-Touchscreen Prices:
+```{r box-plot}
+#5.box-plot for avg prices of touchscreen vs non-touchscreen
+ggplot(laptops, aes(x = Touch, y = Final.Price))+
+  geom_boxplot()+
+  labs(x = 'Touchscreen', y = 'Final Price',
+       title = 'Box Plot of Prices by Touchscreen Availability')
+```
+
+- The box plot compares laptop prices between two categories: "Yes" (touchscreen) and "No" (non-touchscreen).
+
+- The median for the "No" category sits at approximately $1000, while for the "Yes" category, it's slightly above $1500.
+
+- In the "No" category (non-touchscreen), the majority of data points are clustered above the 3rd quartile, ranging from approximately $3000 to $6000. There is a notable outlier priced above $7000.
+
+- The median is positioned between the 1st and 2nd quartiles but is also closer to the center.
+
+- In the "Yes" category (touchscreen), the pattern is similar, with most data points concentrated above the 3rd quartile, at around $4500.
+
+- The median leans toward the 3rd quartile rather than the 1st quartile, indicating differences in price distribution between the two categories.
+
+#### CPU Analysis - Most Common CPU
+```{r bar}
+#CPU analysis, most common CPU barplot
+cpu_freq <- table(laptops$CPU)
+common_cpu <- names(which.max(cpu_freq))
+barplot(cpu_freq,
+        main = 'CPU Frequency in Laptops',
+        ylab = "Frequency", col = 'skyblue',
+        las= 2)
+```
+
+- The bar chart displays the frequency of different CPU types among laptops.
+
+- Intel Core i7 CPUs are the most prevalent, with a frequency of approximately 700. Intel Core i5 CPUs follow as the second most common, with a frequency of around 500.
+
+- AMD Ryzen 7 CPUs are the third highest in frequency, at approximately 150.
+
+- Ryzen 5 CPUs are the fourth highest in frequency.
+
+### Recommendations:
+
+- Consider exploring the unique features and specifications of laptops from brands like Razer, Millenium, and MSI, as they offer higher-priced options with potential performance benefits.
+
+- For consumers seeking laptops within the $200 to $800 price range, focus on laptops with 4GB and 8GB RAM, which are prevalent and offer good value.
+
+- Manufacturers should take note of the popularity of Intel Core i7 and Core i5 CPUs and potentially offer a wider range of laptops featuring these processors.

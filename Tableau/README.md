@@ -5,13 +5,13 @@
 This Tableau Public project presents an interactive visualization of gold price trends over time, along with currency comparisons, volatility, and correlation. The purpose of this project is to demonstrate the author's Tableau proficiency in creating interactive dashboards, applying filters, and enabling highlights for an engaging user experience.
 
 ## Tableau Profile
-Visit my Tableau Public profile to view the interactive dashboard [here](https://public.tableau.com/app/profile/oz.a6900/viz/Proj1_2_16956972723930/YearlyGoldPricesAnalysis)
+Visit my Tableau Public profile to view the interactive dashboard [here](https://public.tableau.com/app/profile/oz.a6900/viz/Proj1_2_16956972723930/YearlyGoldPricesAnalysis).
 
 ## Visualization and Sheets
 
 ### 1. Price Trends Over Time (USA)
 
-- A line chart with years on the x-axis and USD prices on the y-axis.
+- A line chart with years on the vertical-axis and USD prices on the horizontal-axis.
 - Line colors and markers added for visual appeal.
 - Mark labels are set to "Always Show."
 - Axis labels and titles are adjusted for clarity.
@@ -47,5 +47,5 @@ Visit my Tableau Public profile to view the interactive dashboard [here](https:/
 
 ## Documentation
 
-This Tableau project is well-documented in terms of creating each visualization, applying filters, and setting up interactivity. For a detailed step-by-step explanation, refer to the project's [documentation](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Tableau/Documentation/Proj_Gold_Price_Documentation.docx)
+This Tableau project is well-documented in terms of creating each visualization, applying filters, and setting up interactivity. For a detailed step-by-step explanation, refer to the project's [documentation](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/Tableau/Documentation/Proj_Gold_Price_Documentation.docx).
 

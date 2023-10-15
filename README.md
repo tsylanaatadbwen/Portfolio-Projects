@@ -37,7 +37,3 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 ## License
 
 - The datasets used in these projects may have their respective licenses. Please check the specific project directories for dataset sources and licenses.
-
-If you have any questions, suggestions, or would like to collaborate, feel free to reach out. Thanks for visiting my portfolio!
-
-*Usama*

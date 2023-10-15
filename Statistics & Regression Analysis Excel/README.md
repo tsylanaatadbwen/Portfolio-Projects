@@ -32,7 +32,6 @@ In the "Statistical Distribution" section:
 
 ## Confidence Interval
 
-In the "Confidence Interval" section:
 - Calculated a confidence interval for the population sample using the t distribution.
 - Determined alpha using NORM.INV() and computed the margin of error.
 - Concluded the confidence interval for the sample data.
@@ -50,7 +49,6 @@ In the "Confidence Interval" section:
 
 ## Regression Analysis
 
-In the "Regression Analysis" section:
 - Sampled data for dependent and independent variables.
 - Created a scatter plot with a regression line to assess linearity.
 - Built a regression model in line with the business application.

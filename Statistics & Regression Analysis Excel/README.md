@@ -4,7 +4,6 @@ This repository contains the documentation and data analysis of the Weather Data
 
 ## Sample Size Calculation
 
-In the "Sample Size" section:
 - Calculated the sample size required for the population temperature column based on standard deviation, margin of error, and confidence level.
 - Performed data cleaning by removing unnecessary columns.
 - Extracted a random sample of 35046 rows using Excel's RAND() function.

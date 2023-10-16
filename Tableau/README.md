@@ -1,4 +1,4 @@
-# Tableau Public Visualization - Gold Price Analysis
+# Tableau Public Visualization - Yearly Gold Price Analysis
 
 ## Overview
 

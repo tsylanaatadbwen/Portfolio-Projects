@@ -32,7 +32,7 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 ### 6. Tableau Data Visualization
 
 - **Overview:** This project showcases data visualization skills using Tableau. It includes interactive dashboard and visualizations of a Yearly Gold Prices dataset.
-- **[Tableau](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Excel)**
+- **[Tableau](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Tableau)**
 
 ## License
 

@@ -14,9 +14,9 @@ This project encompasses an exploratory data analysis of a laptop dataset using 
 
 - **Uploaded By**: Juan Merino
 
-## HTML link
+## PDF download link
 
-- [here]
+- [here](https://github.com/tsylanaatadbwen/Portfolio-Projects/blob/main/R/Laptops_Analysis.pdf)
 
 ## Libraries Used
 

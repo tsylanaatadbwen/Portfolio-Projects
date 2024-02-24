@@ -15,3 +15,4 @@ This project involves the development of a comprehensive Sales Dashboard using P
 - **Subscription:** Enabled a weekly dashboard subscription to ensure stakeholders receive real-time updates without the need for manual access.
 
 ## Licence
+Dataset Source [Supertore](https://www.kaggle.com/datasets/abiodunonadeji/united-state-superstore-sales)

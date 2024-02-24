@@ -1,4 +1,4 @@
-# Sales Dashboard Project
+# Sales Dashboard Power BI Project
 
 ## Objective
 Create a dynamic Sales Dashboard in Power BI, providing insightful visualizations and analytics for effective business decision-making. The primary goals include tracking revenue, identifying top-selling products, analyzing seasonal trends, and measuring performance against sales targets.
@@ -13,6 +13,10 @@ This project involves the development of a comprehensive Sales Dashboard using P
 - **Power BI Service Deployment:** Leveraged various Power BI Service options and tools, such as personal gateways, automatic refresh schedules, query caching, and Q&A functionalities.
 - **Dashboard Creation:** Developed a dynamic Sales Dashboard with interactive features, enabling stakeholders to gain actionable insights.
 - **Subscription:** Enabled a weekly dashboard subscription to ensure stakeholders receive real-time updates without the need for manual access.
+
+## Screenshots for Power BI Service
+Screenshots for Power BI Service are available in the "Screenshots BI Service" folder. For a detailed visual overview, refer to the attached screenshots in the Word document named "Documentation.docx."
+
 
 ## Licence
 Dataset Source [Supertore](https://www.kaggle.com/datasets/abiodunonadeji/united-state-superstore-sales) .

@@ -8,14 +8,13 @@ This project is an end-to-end data engineering and analytics solution built to a
 Landlords frequently list properties at arbitrary prices. This project solves that problem by scraping live rental data, structuring it into a SQL data warehouse, visualizing market trends in Power BI, and providing an ad-hoc Excel valuation tool to evaluate whether a listing is a BARGAIN or OVERPRICED based on historical benchmark rates per square foot(PKR/SqFt).
 
 ### Technical Architecture & Pipeline
-[ Python Scraper ] ---> [ Raw Data (CSV) ] ---> [ SQL Warehouse (BigQuery) ]
-  (Zameen Scrape)                                (Star Schema DDL/DML)
-                                                          |
-                                      +-------------------+-------------------+
-                                      |                                       |
-                             [ Power BI Dashboard ]               [ Excel Valuation Tool ]
-                            (Executive Visuals &               (Ad-hoc Price/SqFt
-                             Value Distribution)                 Bargain Evaluator)
+```text
+[ Python Scraper ] ──> [ Raw Data (CSV) ] ──> [ SQL Warehouse (BigQuery) ]
+                                                     │
+                                     ┌───────────────┴───────────────┐
+                                     ▼                               ▼
+                           [ Power BI Dashboard ]          [ Excel Valuation Tool ]
+```
 
 
 #### 1. Data Ingestion (Python): Automated web scraper built with Python to extract active residential rental listings, space dimensions (SqFt), property types, and pricing.

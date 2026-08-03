@@ -17,17 +17,22 @@ Landlords frequently list properties at arbitrary prices. This project solves th
 ```
 
 
-#### 1. Data Ingestion (Python): Automated web scraper built with Python to extract active residential rental listings, space dimensions (SqFt), property types, and pricing.
+#### 1. Data Ingestion (Python): 
+Automated web scraper built with Python to extract active residential rental listings, space dimensions (SqFt), property types, and pricing.
 
-#### 2. Data Modeling & Transformation (SQL): Structured raw scraped data into a Star Schema with dimension (dim_location) and fact (fact_listings) tables in BigQuery.
+#### 2. Data Modeling & Transformation (SQL): 
+Structured raw scraped data into a Star Schema with dimension (dim_location) and fact (fact_listings) tables in BigQuery.
 
-#### 3. Executive BI Dashboard (Power BI): Designed a dark-theme analytics dashboard tracking market KPIs, neighborhood price rankings, and a localized price-to-size scatter plot.
+#### 3.
+Executive BI Dashboard (Power BI): Designed a dark-theme analytics dashboard tracking market KPIs, neighborhood price rankings, and a localized price-to-size scatter plot.
 
-#### 3. Ad-Hoc Valuation Tool (Excel): Built an automated calculator leveraging neighborhood dynamic benchmarks(Price/SqFt) to flag listings as BARGAIN (Below Market Avg) or OVERPRICED (Above Market Avg).
+#### 3. 
+Ad-Hoc Valuation Tool (Excel): Built an automated calculator leveraging neighborhood dynamic benchmarks(Price/SqFt) to flag listings as BARGAIN (Below Market Avg) or OVERPRICED (Above Market Avg).
 
 ### Key Features & Visualizations
 
-#### 1. Power BI Executive Dashboard (/dashboard)KPI Header Tiles: Tracks Total Market Inventory, Average Price per SqFt (PKR/SqFt), and Overall Average Rent.Neighborhood Price Ranking: Horizontal clustered bar chart categorizing average unit pricing across premium zones (e.g., DHA Phase 8, Emaar Reef Towers, Clifton).Price vs. Area (SqFt) Quadrant: Filtered scatter plot mapping listing distribution to quickly identify underpriced properties and eliminate extreme outlier size noise.Inventory Slicer: Dynamic dropdown filtering across sub-market inventories.
+#### 1. Power BI Executive Dashboard (/dashboard)KPI Header Tiles: 
+Tracks Total Market Inventory, Average Price per SqFt (PKR/SqFt), and Overall Average Rent.Neighborhood Price Ranking: Horizontal clustered bar chart categorizing average unit pricing across premium zones (e.g., DHA Phase 8, Emaar Reef Towers, Clifton).Price vs. Area (SqFt) Quadrant: Filtered scatter plot mapping listing distribution to quickly identify underpriced properties and eliminate extreme outlier size noise.Inventory Slicer: Dynamic dropdown filtering across sub-market inventories.
 
 - **KPI Header Tiles**: Tracks Total Market Inventory, Average Price per SqFt (PKR/SqFt), and Overall Average Rent.
 - **Neighborhood Price Ranking**: Horizontal clustered bar chart categorizing average unit pricing across premium zones (e.g., DHA Phase 8, Emaar Reef Towers, Clifton).

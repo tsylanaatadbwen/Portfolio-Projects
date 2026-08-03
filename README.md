@@ -9,6 +9,11 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 - **Overview:** Developed an end-to-end data pipeline to analyze Karachi's 2-bedroom rental market. Integrates automated Python web scraping, BigQuery SQL data warehousing (Star Schema), an executive Power BI dashboard, and an ad-hoc Excel valuation tool to identify bargain vs. overpriced property listings.
 - **[Karachi Real Estate Analytics](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/karachi-real-estate-pipeline)**
 
+### 2. Airbnb Revenue & Pricing Analysis
+
+- **Overview:** Built a Power BI analytics solution analyzing 86,000+ global Airbnb listings to evaluate revenue drivers across regions, price bands, and property types. Cleaned and structured data using Power Query, engineered a star schema data model with custom DAX measures, and created interactive dashboards uncovering key market insights—such as the optimal $151–$200 pricing range for demand-revenue balance.
+- **[Airbnb Revenue & Pricing Analysis](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Airbnb%20Revenue%20%26%20Pricing%20Analysis)**
+
 ### 3. Product Sales Analysis
 
 - **Overview:** Developed a dynamic Sales Dashboard in Power BI, integrating advanced ETL processes, DAX for precise data modeling, and leveraging various Power BI Service tools. The project aimed to provide stakeholders with actionable insights into revenue, product trends, and overall sales performance

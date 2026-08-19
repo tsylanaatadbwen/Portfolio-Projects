@@ -1,0 +1,31 @@
+/* =========================================================================
+   PROJECT: Enterprise Sales & Ledger Analytics
+   LAYER: DAX Measures Library
+   ========================================================================= */
+
+// -------------------------------------------------------------------------
+// 1. BASE AGGREGATIONS
+// -------------------------------------------------------------------------
+
+Total Revenue = 
+SUM(Fact_Sales[Total_Revenue])
+
+Total Units = 
+SUM(Fact_Sales[Units_Sold])
+
+
+// -------------------------------------------------------------------------
+// 2. TIME-INTELLIGENCE MEASURES
+// -------------------------------------------------------------------------
+
+Prior Month Revenue = 
+CALCULATE(
+    [Total Revenue],
+    DATEADD(Dim_Date[Date], -1, MONTH)
+)
+
+MoM Revenue Growth % = 
+VAR CurrentMonth = [Total Revenue]
+VAR PrevMonth = [Prior Month Revenue]
+RETURN
+DIVIDE(CurrentMonth - PrevMonth, PrevMonth, 0)

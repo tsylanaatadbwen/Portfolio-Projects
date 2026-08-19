@@ -39,16 +39,6 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 - **Overview:** This R project involves an exploratory data analysis of a laptop dataset. It includes data cleaning, visualizations, and insights into laptop brands, RAM, and more.
 - **[R](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/R)**
 
-### 8. Top-Rated Movies Data Analysis
-
-- **Overview:** This project analyzes a dataset of top-rated movies. It includes data cleaning, visualizations, and insights into movie popularity, ratings, and more.
-- **[Excel](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Excel)**
-  
-### 9. Tableau Data Visualization
-
-- **Overview:** This project showcases data visualization skills using Tableau. It includes interactive dashboard and visualizations of a Yearly Gold Prices dataset.
-- **[Tableau](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Tableau)**
-
 ## License
 
 - The datasets used in these projects may have their respective licenses. Please check the specific project directories for dataset sources and licenses.

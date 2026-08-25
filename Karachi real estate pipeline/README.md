@@ -1,6 +1,8 @@
 # Karachi Real Estate Market Intelligence
 **End-to-End Data Pipeline & Rental Valuation Analysis**
 
+![Dashboard Overview](<RS_icon.png>)
+
 ## Executive Summary
 
 This project is an end-to-end data engineering and analytics solution built to analyze the Karachi residential rental market (focusing on 2-bedroom listings across major precincts like DHA, Emaar, Clifton, and Bahria Town).

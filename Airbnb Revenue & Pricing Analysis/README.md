@@ -1,7 +1,7 @@
 ## Overview
 Airbnb Revenue & Pricing Analysis (Power BI Project)
 
-![Dashboard Overview](Airbnb_Revenue_Report.png)
+![Dashboard Overview](Airbnb%Revenue%Report.png)
 
 This project analyzes global Airbnb listing performance using Power BI. The goal was to explore how pricing, demand, and location impact revenue across major cities and regions. The dataset (86,000+ listings) was cleaned, modeled, and visualized to uncover meaningful business insights.
 

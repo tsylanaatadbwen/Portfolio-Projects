@@ -1,46 +1,44 @@
-# Automated Studio Operations Manager (Momence + Gemini + Slack)
+# Portfolio Projects
 
-An end-to-end operational intelligence engine built for fitness and wellness studios using the **Momence V2 REST API**, **Python**, **Google Gemini AI**, and **Slack Webhooks**. 
+Welcome to my portfolio of data analysis projects! This repository contains a collection of projects showcasing my skills in data analysis, statistics, visualization, Tableau, and SQL. Below, you'll find a brief overview of each project along with links to the project directories for more details.
 
-This system acts as an automated operations manager—monitoring studio performance 24/7, auditing class slot profitability against instructor pay, flagging low retention, and dispatching actionable AI schedule optimizations directly to team channels.
+## Projects
 
-![Studio Operations Digest Preview](slack-momence.png)
+### 1. Karachi Real Estate Market Intelligence Pipeline
 
----
+- **Overview:** Developed an end-to-end data pipeline to analyze Karachi's 2-bedroom rental market. Integrates automated Python web scraping, BigQuery SQL data warehousing (Star Schema), an executive Power BI dashboard, and an ad-hoc Excel valuation tool to identify bargain vs. overpriced property listings.
+- **[Karachi Real Estate Analytics](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/karachi-real-estate-pipeline)**
 
-### Key Operational Capabilities
+### 2. Airbnb Revenue & Pricing Analysis
 
-* **48-Hour Empty Class Alerts:** Scans upcoming sessions and flags unbooked classes 48 hours in advance to prevent wasted instructor costs.
-* **3-Week Rolling Capacity Audit:** Tracks class slot utilization to highlight underperforming slots (<50% capacity) and oversubscribed sessions (>80% capacity).
-* **True Net Profitability Analysis:** Calculates net profit per class session by evaluating gross ticket revenue against instructor pay rates and room overhead costs.
-* **Membership Health Metrics:** Calculates rolling 30-day retention vs. churn rates and flags high-frequency drop-in members attending 3+ times/week for recurring plan upsells.
-* **Gemini AI Schedule Optimization:** Feeds capacity and profit metrics into `gemini-3.6-flash` to generate 3 concrete, data-backed schedule re-allocation strategies.
-* **Rich Slack Executive Digest:** Formats all alerts, financial KPIs, upsell targets, and AI recommendations into a clean, block-formatted Slack digest.
+- **Overview:** Built a Power BI analytics solution analyzing 86,000+ global Airbnb listings to evaluate revenue drivers across regions, price bands, and property types. Cleaned and structured data using Power Query, engineered a star schema data model with custom DAX measures, and created interactive dashboards uncovering key market insights—such as the optimal $151–$200 pricing range for demand-revenue balance.
+- **[Airbnb Revenue & Pricing Analysis](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Airbnb%20Revenue%20%26%20Pricing%20Analysis)**
 
----
+### 3. Product Sales Analysis
 
-### Tech Stack
+- **Overview:** Developed a dynamic Sales Dashboard in Power BI, integrating advanced ETL processes, DAX for precise data modeling, and leveraging various Power BI Service tools. The project aimed to provide stakeholders with actionable insights into revenue, product trends, and overall sales performance
+- **[Power BI Project](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Power%20BI%20Project)**
 
-* **Language:** Python 3.11+
-* **Integrations:** Momence V2 REST API, Google Gemini API (`google-genai`), Slack Webhooks
-* **Data Handling:** `requests`, `python-dotenv`
-* **AI Model:** `gemini-3.6-flash`
+### 4. Weather Data Analysis with Statistical Questions
 
----
+- **Overview:** This Excel project explores weather data from Szeged, Hungary, using statistical analysis, hypothesis testing, and regression analysis.
+- **[Statistics & Regression Analysis Excel](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Statistics%20%26%20Regression%20Analysis%20Excel)**
 
-### Environment Setup
+### 5. Python Pandas UFC Rankings Data Analysis
 
-Create a `.env` file in the project root with the following configuration:
+- **Overview:** This project focuses on analyzing UFC rankings data using Python and the Pandas library. It includes visualizations, title reign analysis, and insights into UFC fighter rankings.
+- **[Python Pandas](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Python%20Pandas)**
+  
+### 6. SQL Database Query and Analysis
 
-```env
-MOMENCE_CLIENT_ID=your_client_id
-MOMENCE_CLIENT_SECRET=your_client_secret
-MOMENCE_SERVICE_EMAIL=your_email
-MOMENCE_SERVICE_PASSWORD=your_password
-GEMINI_API_KEY=your_gemini_api_key
-SLACK_WEBHOOK_URL=your_slack_webhook_url
-```
+- **Overview:** This project demonstrates SQL skills by performing database queries and analysis on a dataset using SQL.
+- **[SQL](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/SQL)**
 
-### Execution
+### 7. Exploratory Data Analysis of Laptops Dataset (R)
 
-python main.py
+- **Overview:** This R project involves an exploratory data analysis of a laptop dataset. It includes data cleaning, visualizations, and insights into laptop brands, RAM, and more.
+- **[R](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/R)**
+
+## License
+
+- The datasets used in these projects may have their respective licenses. Please check the specific project directories for dataset sources and licenses.

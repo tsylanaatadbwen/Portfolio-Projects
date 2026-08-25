@@ -1,5 +1,7 @@
 # YouTube Comments Sentiment Analysis: Understanding Viewer Perceptions of the Tesla Cybertruck
 
+![Wordcloud](<Sales Report.png>)
+
 ## Project Overview
 This project involves two main components: Python web scraping for data collection and Power BI for data visualization and analysis.
 

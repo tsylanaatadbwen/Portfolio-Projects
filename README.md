@@ -4,12 +4,22 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 
 ## Projects
 
-### 1. Karachi Real Estate Market Intelligence Pipeline
+### 1. Automated Studio Operations Manager (Momence & Gemini)
+
+* **Overview**: Built an operational intelligence engine integrating the Momence V2 REST API, Python, and Google Gemini AI. Audits class slot capacity and net profitability against instructor pay, identifies drop-in member upsell opportunities, and dispatches block-formatted executive digests and AI schedule recommendations directly to Slack.
+* [Momence Studio Automation](./momence-automation)
+
+### 2. Automated Monthly Sales Ledger Pipeline & Reporting
+
+* **Overview**: Engineered an automated ETL data pipeline using Power Query M-code to dynamically ingest multi-folder monthly sales ledgers. Transformed and modeled historical financial data, authored custom DAX measures for month-over-month growth metrics, and constructed an interactive Power BI executive report.
+* [Sales Ledger Analytics](./sales-ledger-analytics)
+
+### 3. Karachi Real Estate Market Intelligence Pipeline
 
 - **Overview:** Developed an end-to-end data pipeline to analyze Karachi's 2-bedroom rental market. Integrates automated Python web scraping, BigQuery SQL data warehousing (Star Schema), an executive Power BI dashboard, and an ad-hoc Excel valuation tool to identify bargain vs. overpriced property listings.
 - **[Karachi Real Estate Analytics](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/karachi-real-estate-pipeline)**
 
-### 2. Airbnb Revenue & Pricing Analysis
+### 4. Airbnb Revenue & Pricing Analysis
 
 - **Overview:** Built a Power BI analytics solution analyzing 86,000+ global Airbnb listings to evaluate revenue drivers across regions, price bands, and property types. Cleaned and structured data using Power Query, engineered a star schema data model with custom DAX measures, and created interactive dashboards uncovering key market insights—such as the optimal $151–$200 pricing range for demand-revenue balance.
 - **[Airbnb Revenue & Pricing Analysis](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Airbnb%20Revenue%20%26%20Pricing%20Analysis)**

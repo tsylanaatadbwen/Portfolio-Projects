@@ -7,12 +7,12 @@ Welcome to my portfolio of data analysis projects! This repository contains a co
 ### 1. Automated Studio Operations Manager (Momence & Gemini)
 
 * **Overview**: Built an operational intelligence engine integrating the Momence V2 REST API, Python, and Google Gemini AI. Audits class slot capacity and net profitability against instructor pay, identifies drop-in member upsell opportunities, and dispatches block-formatted executive digests and AI schedule recommendations directly to Slack.
-* [Momence Studio Automation](./momence-automation)
+- **[Momence Studio Automation](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Momence%20Automation)**
 
 ### 2. Automated Monthly Sales Ledger Pipeline & Reporting
 
 * **Overview**: Engineered an automated ETL data pipeline using Power Query M-code to dynamically ingest multi-folder monthly sales ledgers. Transformed and modeled historical financial data, authored custom DAX measures for month-over-month growth metrics, and constructed an interactive Power BI executive report.
-* [Sales Ledger Analytics](./sales-ledger-analytics)
+- **[Sales Ledger Analytics](https://github.com/tsylanaatadbwen/Portfolio-Projects/tree/main/Ledger%20Analytics%20Pipeline)**
 
 ### 3. Karachi Real Estate Market Intelligence Pipeline
 

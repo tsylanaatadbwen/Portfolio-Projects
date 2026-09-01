@@ -83,7 +83,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python pipeline.py
-
+```
 
 3. **Open Executive Report:**
 Open PakWheels_Market_Analytics.pbix in Power BI Desktop and click Refresh to load the newly exported dataset from ./data/.

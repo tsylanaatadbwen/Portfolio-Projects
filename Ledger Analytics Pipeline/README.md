@@ -17,8 +17,6 @@ The client receives transactional sales data split into individual monthly Excel
 
 ---
 
----
-
 ## Data Transformation Logic (Power Query / M)
 
 The extraction engine leverages M-code to parse the directory dynamically using `Folder.Files`. 

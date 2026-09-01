@@ -73,9 +73,9 @@ Provides granular, record-level vehicle inspection with cross-report drill-throu
 ## How to Run
 
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git](https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git)
-   cd pakwheels-market-analytics
+```bash
+git clone [https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git](https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git)
+cd pakwheels-market-analytics
 
 2. **Setup Python & Run Data Extraction:**
  ```bash

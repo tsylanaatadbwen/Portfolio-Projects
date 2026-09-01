@@ -76,23 +76,3 @@ DIVIDE(CurrentMonth - PrevMonth, PrevMonth, 0)
 ```
 
 See full DAX library in dax/measures.dax.
-
-### UI / Dashboard Design System
-
-- Header Banner: #0F172A (Dark Slate) full-width container providing executive branding.
-
-- Canvas Background: #F1F5F9 (Light Gray) with zero-transparency rendering.
-
-- Visual Styling: Individual visuals configured as #FFFFFF floating white cards with 8px rounded borders and soft drop shadows for clear visual hierarchy.
-
-- Metrics: Top Executive KPI Tiles, Monthly Combined Trend (Line & Stacked Column), Category Performance (Bar Chart), and Regional Contribution (Donut Chart with direct callout labels).
-
-### Verification & Automated Refresh Test
-
-#### To verify the automated scalability:
-
-- A new monthly file (Ledger_2026_01.xlsx) was added to the source folder directory.
-
-- Triggered Refresh (Data and Schema) in Power BI.
-
-- Power Query successfully scanned, cleaned, and appended the new dataset to Fact_Sales, dynamically updating Dim_Date and all DAX visuals with zero manual query editing.

@@ -17,22 +17,6 @@ The client receives transactional sales data split into individual monthly Excel
 
 ---
 
-## Solution Architecture & Pipeline Overview
-
-[ Local / Cloud Directory ]
-│ (Folder.Files Ingestion)
-▼
-[ Power Query ETL Engine ] ──► Strips multi-row metadata, flattens headers, filters nulls
-│
-▼
-[ Relational Star Schema ] ──► Dim_Products, Dim_Towns, Dim_Channels, Dim_Date, Fact_Sales
-│
-▼
-[ DAX Analytics Engine ]   ──► Base aggregations + Time-Intelligence (MoM Revenue Growth %)
-│
-▼
-[ Executive UI & Fabric ]  ──► Executive Dark Header Layout + Microsoft Fabric Workspace Ready
-
 ---
 
 ## Data Transformation Logic (Power Query / M)

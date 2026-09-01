@@ -18,7 +18,7 @@ The system runs an automated Python web crawler that generates daily timestamped
                                                     ( ./data/ Folder )
                                                               │
 [ Executive Report ] <── ( 3-Page Power BI ) <── ( Power Query Folder Connector )
-
+```
 
 
 1. **Extraction:** `pipeline.py` uses `curl_cffi` (impersonating Chrome TLS fingerprints) to bypass scraping blocks and collect pagination search results.

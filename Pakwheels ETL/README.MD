@@ -19,20 +19,7 @@ The system runs an automated Python web crawler that generates daily timestamped
                                                               │
 [ Executive Report ] <── ( 3-Page Power BI ) <── ( Power Query Folder Connector )
 
----
 
-### Mermaid Diagram (GitHub Native Visual Renderer)
-
-```markdown
-```mermaid
-flowchart LR
-    A[PakWheels Web] --> B(Python Scraper / curl_cffi)
-    B --> C[Daily CSV Export]
-    C --> D(./data/ Folder)
-    D --> E(Power Query Folder Connector)
-    E --> F(3-Page Power BI)
-    F --> G[Executive Report]
-```
 
 1. **Extraction:** `pipeline.py` uses `curl_cffi` (impersonating Chrome TLS fingerprints) to bypass scraping blocks and collect pagination search results.
 2. **Transformation:** Converts PKR Lac/Crore price strings into standard integers, parses mileage/specs, and builds categorical bins (`price_tier` and `age_bracket`) using `pandas`.

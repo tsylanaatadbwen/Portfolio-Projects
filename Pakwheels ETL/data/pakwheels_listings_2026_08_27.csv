@@ -1,0 +1,721 @@
+listing_id,scrape_date,title,make,model_year,asking_price_pkr,mileage_km,fuel_type,transmission,city,price_tier,age_bracket
+11898949,2026-08-27,Toyota Yaris Hatchback  2022 G 1.0,Toyota,2022,4880000.0,49500,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11914424,2026-08-27,Honda Civic  2019 Oriel 1.8 i-VTEC CVT,Honda,2019,595000.0,94000,Petrol,Automatic,Islamabad,Under 2M PKR,2016 to 2020
+11905201,2026-08-27,Toyota Corolla  2010 GLi 1.3 VVTi,Toyota,2010,2750000.0,140000,Petrol,Manual,Sialkot,2M - 5M PKR,2010 to 2015
+11900471,2026-08-27,Honda Civic  2013,Honda,2013,3950000.0,113000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11901287,2026-08-27,Suzuki Alto  2021 S Package,Suzuki,2021,3400000.0,55000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11874908,2026-08-27,Honda Civic  2017 Oriel 1.8 i-VTEC CVT,Honda,2017,5140000.0,99000,Petrol,Automatic,Rawalpindi,5M - 10M PKR,2016 to 2020
+11884555,2026-08-27,Hyundai Tucson  2023 AWD A/T Ultimate,Hyundai,2023,8000000.0,37529,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11886601,2026-08-27,Suzuki Vitara  2018 GL+ 1.6,Suzuki,2018,4290000.0,108000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11121102,2026-08-27,MG HS  2023 Trophy,MG,2023,6800000.0,41000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11623133,2026-08-27,Tank 500  2026 HEV High,Tank,2026,22900000.0,1,Hybrid,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11885502,2026-08-27,Haval H6  2025 1.5T,Haval,2025,8625000.0,42000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11885292,2026-08-27,Tank 500  2026 PHEV,Tank,2026,24000000.0,200,PHEV,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11444466,2026-08-27,Daihatsu Cuore  2007 CL,Daihatsu,2007,819000.0,127000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11914441,2026-08-27,Suzuki Mehran  2016 VX Euro II,Suzuki,2016,1480000.0,70000,Petrol,Manual,Rawalpindi,Under 2M PKR,2016 to 2020
+11914439,2026-08-27,Toyota Yaris Sedan  2021 ATIV X CVT 1.5,Toyota,2021,4650000.0,52374,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914440,2026-08-27,Honda Civic Reborn (FD) 2010 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2010,2760000.0,135000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11914437,2026-08-27,Suzuki Khyber  1998 GA,Suzuki,1998,850000.0,105000,Petrol,Manual,Kohat,Under 2M PKR,Pre-2010
+11914436,2026-08-27,Suzuki Swift  2013 DLX 1.3,Suzuki,2013,2100000.0,189000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914429,2026-08-27,Honda City 5th (GM2) Generation 2011 1.3 i-VTEC,Honda,2011,2900000.0,100000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11693530,2026-08-27,Honda Civic  2017 Turbo 1.5 VTEC CVT,Honda,2017,4600000.0,150000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914434,2026-08-27,Toyota Corolla 9th (E120) Generation 2004 GLi 1.3,Toyota,2004,2200000.0,263000,Petrol,Manual,Rawalpindi,2M - 5M PKR,Pre-2010
+11914433,2026-08-27,Chery Tiggo 7  2026 Premium PHEV FWD,Chery,2026,10200000.0,5,PHEV,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11825125,2026-08-27,Honda City 5th (GM2) Generation 2009 1.3 i-VTEC Prosmatec,Honda,2009,2730000.0,132000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11693147,2026-08-27,Suzuki Alto  2014 ECO-L,Suzuki,2014,2150000.0,182653,Petrol,Automatic,Mansehra,2M - 5M PKR,2010 to 2015
+11914426,2026-08-27,Suzuki Wagon R  2017 VXL,Suzuki,2017,2575000.0,68481,Petrol,Manual,Lahore,2M - 5M PKR,2016 to 2020
+11914425,2026-08-27,Honda Civic  2006,Honda,2006,1850000.0,190000,Petrol,Automatic,Lahore,Under 2M PKR,Pre-2010
+11900908,2026-08-27,Suzuki Alto  2020 VXL AGS,Suzuki,2020,2330000.0,86000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914422,2026-08-27,Nissan Dayz  2014,Nissan,2014,2300000.0,80000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11914421,2026-08-27,Suzuki Cultus  2008 VXLi,Suzuki,2008,1019999.0,100000,Petrol,Manual,Hyderabad,Under 2M PKR,Pre-2010
+11882043,2026-08-27,Toyota Corolla  2023 Altis Grande X CVT-i 1.8 Black Interior,Toyota,2023,7450000.0,29000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11885014,2026-08-27,Toyota Fortuner  2021 2.7 VVTi,Toyota,2021,13200000.0,32000,Petrol,Automatic,Rawalpindi,Over 10M PKR,2021 to 2026
+11883577,2026-08-27,Mitsubishi Pajero  2011 GR 3.2D,Mitsubishi,2011,9000000.0,65994,Diesel,Automatic,Karachi,5M - 10M PKR,2010 to 2015
+11622254,2026-08-27,Mercedes Benz E Class 5th (W213) Generation 2017 E200 Exclusive,Mercedes,2017,22000000.0,5053,Petrol,Automatic,Islamabad,Over 10M PKR,2016 to 2020
+11863263,2026-08-27,Honda City 6th (GM4) Generation 2025 1.5L ASPIRE CVT,Honda,2025,6050000.0,15000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11853166,2026-08-27,Haval H6  2026 PHEV,Haval,2026,12500000.0,9000,PHEV,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914416,2026-08-27,Honda N Wgn  2022 Custom,Honda,2022,3990000.0,23000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11289499,2026-08-27,KIA Rio  2023 GT Line,KIA,2023,4280000.0,55000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914389,2026-08-27,Suzuki Wagon R  2017 VXL,Suzuki,2017,2650000.0,47000,Petrol,Manual,Islamabad,2M - 5M PKR,2016 to 2020
+11866128,2026-08-27,Toyota Corolla  2020 Altis Automatic 1.6,Toyota,2020,4850000.0,53407,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11906048,2026-08-27,Toyota Surf  1996 SSR-G 2.7,Toyota,1996,3300000.0,123,Petrol,Automatic,Karachi,2M - 5M PKR,Pre-2010
+11881988,2026-08-27,Toyota Corolla  2010 XLi VVTi Limited Edition,Toyota,2010,2950000.0,180000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11121102,2026-08-27,MG HS  2023 Trophy,MG,2023,6800000.0,41000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11623133,2026-08-27,Tank 500  2026 HEV High,Tank,2026,22900000.0,1,Hybrid,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11885502,2026-08-27,Haval H6  2025 1.5T,Haval,2025,8625000.0,42000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11885292,2026-08-27,Tank 500  2026 PHEV,Tank,2026,24000000.0,200,PHEV,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914419,2026-08-27,Suzuki Alto  2022 VXL AGS,Suzuki,2022,2800000.0,70000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914418,2026-08-27,Toyota Yaris Hatchback  2021 X,Toyota,2021,450000.0,71500,Petrol,Automatic,Quetta,Under 2M PKR,2021 to 2026
+11914417,2026-08-27,Suzuki Margalla  1998 GLX,Suzuki,1998,1500000.0,104000,Petrol,Manual,Abbottabad,Under 2M PKR,Pre-2010
+11688794,2026-08-27,Honda Civic Reborn (FD) 2011 VTi 1.8 i-VTEC,Honda,2011,2350000.0,132000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914414,2026-08-27,Daihatsu Cuore  2004 CX Automatic,Daihatsu,2004,580000.0,145000,Petrol,Automatic,Lahore,Under 2M PKR,Pre-2010
+11914412,2026-08-27,Suzuki Wagon R  2019 VXL,Suzuki,2019,2695000.0,95000,Petrol,Manual,Mardan,2M - 5M PKR,2016 to 2020
+11914411,2026-08-27,Toyota Premio  2012 X L Package 1.8,Toyota,2012,6800000.0,60000,Petrol,Automatic,Quetta,5M - 10M PKR,2010 to 2015
+11914410,2026-08-27,Toyota Surf  1999 SSR-G 3.4,Toyota,1999,430000.0,90000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11914405,2026-08-27,Honda City  2006 i-DSI,Honda,2006,2550000.0,20000,Petrol,Manual,Islamabad,2M - 5M PKR,Pre-2010
+11914407,2026-08-27,Suzuki Cultus  2018 VXL,Suzuki,2018,2380000.0,111000,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11914404,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,6000000.0,35800,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914402,2026-08-27,Honda Civic 11th (FE) Generation 2024 RS,Honda,2024,8850000.0,40000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11895193,2026-08-27,Toyota Land Cruiser  2015 AX,Toyota,2015,29000000.0,95000,Petrol,Automatic,Karachi,Over 10M PKR,2010 to 2015
+11914378,2026-08-27,Honda City 5th (GM2) Generation 2009 1.3 i-VTEC,Honda,2009,2200000.0,83000,Petrol,Manual,Karachi,2M - 5M PKR,Pre-2010
+11914359,2026-08-27,Suzuki Swift  2024 GLX CVT,Suzuki,2024,4600000.0,36500,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914354,2026-08-27,Mercedes Benz Sl Class  2023,Mercedes,2023,,9000,Petrol,Automatic,Lahore,,2021 to 2026
+11914344,2026-08-27,Honda City 6th (GM4) Generation 2022 1.2L CVT,Honda,2022,4265000.0,27000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914343,2026-08-27,Mercedes Benz Sl Class  2023,Mercedes,2023,79000000.0,6000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11909653,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,4420000.0,39000,Petrol,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11852608,2026-08-27,Suzuki Swift  2011 DX 1.3,Suzuki,2011,2180000.0,39000,Petrol,Manual,Gujranwala,2M - 5M PKR,2010 to 2015
+11914329,2026-08-27,Toyota Land Cruiser  2025 ZX Gasoline 3.5L,Toyota,2025,80800000.0,30,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914326,2026-08-27,Toyota Fortuner  2026 2.7 G,Toyota,2026,13400000.0,25,Petrol,Automatic,Multan,Over 10M PKR,2021 to 2026
+11657145,2026-08-27,Suzuki Liana  2008 Eminent Automatic 1.3,Suzuki,2008,1625000.0,98000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11914314,2026-08-27,Toyota Prado  2021 TX 2.7,Toyota,2021,24200000.0,19900,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11629212,2026-08-27,Suzuki Mehran  2011 VX,Suzuki,2011,850000.0,132000,Petrol,Manual,Lahore,Under 2M PKR,2010 to 2015
+11866128,2026-08-27,Toyota Corolla  2020 Altis Automatic 1.6,Toyota,2020,4850000.0,53407,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11906048,2026-08-27,Toyota Surf  1996 SSR-G 2.7,Toyota,1996,3300000.0,123,Petrol,Automatic,Karachi,2M - 5M PKR,Pre-2010
+11910357,2026-08-27,Nissan Roox  2022 S Hybrid,Nissan,2022,3415000.0,32000,Hybrid,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11876302,2026-08-27,Honda City 5th (GM2) Generation 2015 1.3 i-VTEC,Honda,2015,2985000.0,112000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11881988,2026-08-27,Toyota Corolla  2010 XLi VVTi Limited Edition,Toyota,2010,2950000.0,180000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11914396,2026-08-27,Suzuki Alto  2006,Suzuki,2006,750000.0,100000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11404920,2026-08-27,Daihatsu Charade  1988 CX,Daihatsu,1988,550000.0,10000,Petrol,Manual,Kohat,Under 2M PKR,Pre-2010
+11914395,2026-08-27,Suzuki Cultus  2014 EURO II,Suzuki,2014,1325000.0,128000,Petrol,Manual,Lahore,Under 2M PKR,2010 to 2015
+11914394,2026-08-27,Suzuki Alto  2020 VXL AGS,Suzuki,2020,2650000.0,62000,Petrol,Automatic,Hyderabad,2M - 5M PKR,2016 to 2020
+11914388,2026-08-27,Suzuki Cultus  2006 VXR,Suzuki,2006,900000.0,820000,Petrol,Manual,Gujrat,Under 2M PKR,Pre-2010
+11914383,2026-08-27,Honda Civic  2021 Oriel 1.8 i-VTEC CVT,Honda,2021,6000000.0,101000,Petrol,Automatic,Quetta,5M - 10M PKR,2021 to 2026
+11914381,2026-08-27,Toyota Corolla 8th (E110) Generation 1999 XE,Toyota,1999,1195000.0,235000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11914380,2026-08-27,KIA Classic  2000 LX,KIA,2000,750000.0,5000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11914376,2026-08-27,Toyota Vitz  2014 F 1.0,Toyota,2014,3600000.0,144000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11914375,2026-08-27,Suzuki Mehran  2013 VXR Euro II,Suzuki,2013,1350000.0,47000,Petrol,Manual,Hyderabad,Under 2M PKR,2010 to 2015
+11914368,2026-08-27,Suzuki Swift  2022 GLX CVT,Suzuki,2022,4370000.0,78000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11914366,2026-08-27,Honda Vezel  2015 Hybrid Z,Honda,2015,4000000.0,175,Hybrid,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11914365,2026-08-27,Toyota Corolla  2009 XLi VVTi,Toyota,2009,2350000.0,166000,Petrol,Manual,Faisalabad,2M - 5M PKR,Pre-2010
+11914364,2026-08-27,Honda Civic  2017 Oriel 1.8 i-VTEC CVT,Honda,2017,5250000.0,140000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11914360,2026-08-27,Honda City  2001 EXi S Automatic,Honda,2001,1080000.0,120000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11914356,2026-08-27,Suzuki Alto  2020 VXL AGS,Suzuki,2020,2180000.0,47300,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11875563,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC Prosmatec,Honda,2018,3725000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11845513,2026-08-27,Toyota Corolla  2018 Altis Grande CVT-i 1.8,Toyota,2018,4950000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914310,2026-08-27,Nissan X Trail  2022,Nissan,2022,9900000.0,17000,Hybrid,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914303,2026-08-27,Mercedes Benz E Class 5th (W213) Generation 2023 E200 AMG,Mercedes,2023,49500000.0,22000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11896331,2026-08-27,Suzuki Alto  2019 F,Suzuki,2019,2940000.0,62648,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914296,2026-08-27,Honda Civic 7th Generation (Facelift) 2006 EXi Prosmatec,Honda,2006,1780000.0,216000,Petrol,Automatic,Rawalpindi,Under 2M PKR,Pre-2010
+11914295,2026-08-27,Toyota Land Cruiser  2023 AX 3.5L,Toyota,2023,51500000.0,25000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914282,2026-08-27,Toyota Hilux  2025 Revo GR-S,Toyota,2025,16500000.0,35000,Diesel,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11905292,2026-08-27,Suzuki Swift  2017 DLX 1.3 Navigation,Suzuki,2017,2550000.0,137000,Petrol,Manual,Islamabad,2M - 5M PKR,2016 to 2020
+11914278,2026-08-27,Honda Civic  2022 Oriel 1.8 i-VTEC CVT,Honda,2022,5700000.0,87000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+10072858,2026-08-27,Ford Mustang  2018 GT,Ford,2018,42500000.0,18000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11914270,2026-08-27,Dongfeng VIGO  2013,Dongfeng,2013,7350000.0,85000,Diesel,Automatic,Karachi,5M - 10M PKR,2010 to 2015
+11914354,2026-08-27,Mercedes Benz Sl Class  2023,Mercedes,2023,,9000,Petrol,Automatic,Lahore,,2021 to 2026
+11914352,2026-08-27,Honda City 6th (GM4) Generation 2023 1.5L ASPIRE CVT,Honda,2023,5300000.0,15000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914344,2026-08-27,Honda City 6th (GM4) Generation 2022 1.2L CVT,Honda,2022,4265000.0,27000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11776282,2026-08-27,Suzuki Alto  2024 VXL AGS,Suzuki,2024,3148000.0,13500,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11914349,2026-08-27,Honda Civic  2022 1.5 VTEC Turbo Oriel,Honda,2022,7150000.0,80000,Petrol,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11914353,2026-08-27,Honda City 5th (GM2) Generation 2011 1.3 i-VTEC,Honda,2011,2375000.0,123,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+7451978,2026-08-27,Suzuki Cultus  2022 VXR,Suzuki,2022,3400000.0,15000,Petrol,Manual,Nawabshah,2M - 5M PKR,2021 to 2026
+11914345,2026-08-27,Honda Civic  2010,Honda,2010,2380000.0,157000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11659656,2026-08-27,Suzuki Cultus  2017 Limited Edition,Suzuki,2017,1950000.0,73000,Petrol,Manual,Karachi,Under 2M PKR,2016 to 2020
+11914343,2026-08-27,Mercedes Benz Sl Class  2023,Mercedes,2023,79000000.0,6000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11594810,2026-08-27,Suzuki Wagon R  2022 VXR,Suzuki,2022,2800000.0,47000,Petrol,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11909653,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,4420000.0,39000,Petrol,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11914341,2026-08-27,Suzuki Bolan  2008 VX (CNG),Suzuki,2008,750000.0,100000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11852608,2026-08-27,Suzuki Swift  2011 DX 1.3,Suzuki,2011,2180000.0,39000,Petrol,Manual,Gujranwala,2M - 5M PKR,2010 to 2015
+11914340,2026-08-27,Toyota Vitz  2017 1.0F Safety Edition III,Toyota,2017,3800000.0,98000,Petrol,Automatic,Peshawar,2M - 5M PKR,2016 to 2020
+11914339,2026-08-27,Suzuki Bolan  2014 VX Euro II,Suzuki,2014,969999.0,707070,Petrol,Manual,Karachi,Under 2M PKR,2010 to 2015
+11914336,2026-08-27,Toyota Corolla  2022,Toyota,2022,6600000.0,52000,Petrol,Automatic,Mirpur khas,5M - 10M PKR,2021 to 2026
+11914331,2026-08-27,Daihatsu Move  2014,Daihatsu,2014,3400000.0,52742,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11914330,2026-08-27,Toyota Corolla  2014 XLi VVTi Limited Edition,Toyota,2014,2600000.0,157000,Petrol,Manual,Karachi,2M - 5M PKR,2010 to 2015
+11914327,2026-08-27,Toyota Corolla  2021 Altis X Automatic 1.6,Toyota,2021,5500000.0,57000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914320,2026-08-27,Toyota Prius  2017 S Touring Selection Black Edition,Toyota,2017,6300000.0,108000,Hybrid,Automatic,Rawalpindi,5M - 10M PKR,2016 to 2020
+11914329,2026-08-27,Toyota Land Cruiser  2025 ZX Gasoline 3.5L,Toyota,2025,80800000.0,30,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914328,2026-08-27,Suzuki Mehran  2018 VXR Euro II,Suzuki,2018,1500000.0,99000,Petrol,Manual,Sahiwal,Under 2M PKR,2016 to 2020
+11895337,2026-08-27,Nissan Dayz  2013 Highway Star X,Nissan,2013,2675000.0,130000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11914326,2026-08-27,Toyota Fortuner  2026 2.7 G,Toyota,2026,13400000.0,25,Petrol,Automatic,Multan,Over 10M PKR,2021 to 2026
+11883575,2026-08-27,Toyota Yaris Sedan  2025 GLI CVT 1.3,Toyota,2025,5050000.0,29500,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11122307,2026-08-27,Toyota Raize  2020,Toyota,2020,5980000.0,35000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11612079,2026-08-27,Toyota Raize  2020,Toyota,2020,5480000.0,65100,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11079382,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,5980000.0,2200,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11121720,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6580000.0,35200,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11914231,2026-08-27,Suzuki Alto  2014 ECO-S,Suzuki,2014,3500000.0,54600,Petrol,Automatic,Quetta,2M - 5M PKR,2010 to 2015
+11579767,2026-08-27,Hyundai Tucson  2021 AWD A/T Ultimate,Hyundai,2021,6500000.0,60000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914239,2026-08-27,Land Rover Defender  2021 110,Land,2021,34200000.0,29000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914223,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,26000000.0,16000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11897912,2026-08-27,Toyota Raize  2020 G,Toyota,2020,5300000.0,36000,Petrol,Automatic,Renala khurd,5M - 10M PKR,2016 to 2020
+11786728,2026-08-27,Toyota Passo  2016 Moda G,Toyota,2016,3000000.0,106117,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11880052,2026-08-27,Toyota Land Cruiser  2011 AX,Toyota,2011,19000000.0,187000,Petrol,Automatic,Lahore,Over 10M PKR,2010 to 2015
+11914325,2026-08-27,Honda Civic Reborn (FD) 2007 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2007,3300000.0,180000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11914324,2026-08-27,Honda Civic Reborn (FD) 2014 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2014,3490000.0,98000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11914316,2026-08-27,Suzuki Spacia  2022 X,Suzuki,2022,3170000.0,32000,Hybrid,Automatic,Sialkot,2M - 5M PKR,2021 to 2026
+11914313,2026-08-27,Mercedes Benz CLS Class  2005 CLS500,Mercedes,2005,9800000.0,144000,Petrol,Automatic,Lahore,5M - 10M PKR,Pre-2010
+11914319,2026-08-27,Suzuki Mehran  2019 VXR Euro II,Suzuki,2019,1500000.0,95000,Petrol,Manual,Lahore,Under 2M PKR,2016 to 2020
+11914317,2026-08-27,Daihatsu Cuore  2003 CX Eco,Daihatsu,2003,780000.0,100000,Petrol,Manual,Faisalabad,Under 2M PKR,Pre-2010
+11913455,2026-08-27,Toyota Corolla  2019 Altis Automatic 1.6,Toyota,2019,4775000.0,110000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11657145,2026-08-27,Suzuki Liana  2008 Eminent Automatic 1.3,Suzuki,2008,1625000.0,98000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11914315,2026-08-27,Toyota Vitz  2018 F M Package 1.0,Toyota,2018,3975000.0,77000,Petrol,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11914314,2026-08-27,Toyota Prado  2021 TX 2.7,Toyota,2021,24200000.0,19900,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11875563,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC Prosmatec,Honda,2018,3725000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11845513,2026-08-27,Toyota Corolla  2018 Altis Grande CVT-i 1.8,Toyota,2018,4950000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914304,2026-08-27,Toyota Corolla  2013,Toyota,2013,2800000.0,175000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2010 to 2015
+11914310,2026-08-27,Nissan X Trail  2022,Nissan,2022,9900000.0,17000,Hybrid,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914307,2026-08-27,Toyota Vitz  2018 1.0F Safety Edition III,Toyota,2018,4100000.0,107000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11914303,2026-08-27,Mercedes Benz E Class 5th (W213) Generation 2023 E200 AMG,Mercedes,2023,49500000.0,22000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11896331,2026-08-27,Suzuki Alto  2019 F,Suzuki,2019,2940000.0,62648,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914296,2026-08-27,Honda Civic 7th Generation (Facelift) 2006 EXi Prosmatec,Honda,2006,1780000.0,216000,Petrol,Automatic,Rawalpindi,Under 2M PKR,Pre-2010
+11914298,2026-08-27,KIA Sportage  2023 AWD,KIA,2023,8050000.0,12470,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914300,2026-08-27,Suzuki Swift  2014 DLX 1.3,Suzuki,2014,2350000.0,120000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11914297,2026-08-27,Toyota Corolla  2020 Altis Grande CVT-i 1.8,Toyota,2020,6000000.0,114000,Petrol,Automatic,Kasur,5M - 10M PKR,2016 to 2020
+11914295,2026-08-27,Toyota Land Cruiser  2023 AX 3.5L,Toyota,2023,51500000.0,25000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914290,2026-08-27,Mitsubishi Minicab  2010,Mitsubishi,2010,1300000.0,1,Petrol,Automatic,Karachi,Under 2M PKR,2010 to 2015
+11914288,2026-08-27,Suzuki Swift  2014 DX 1.3,Suzuki,2014,2150000.0,86000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914282,2026-08-27,Toyota Hilux  2025 Revo GR-S,Toyota,2025,16500000.0,35000,Diesel,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11914215,2026-08-27,Toyota Prado  2022 TZ-G 2.8L Diesel,Toyota,2022,39500000.0,19000,Diesel,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914214,2026-08-27,Hyundai Tucson  2025 AWD A/T Ultimate,Hyundai,2025,8350000.0,7000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11789076,2026-08-27,Toyota Prado  2014 TX L Package 2.7,Toyota,2014,18500000.0,90000,Petrol,Automatic,Lahore,Over 10M PKR,2010 to 2015
+11914209,2026-08-27,Toyota Prado  2021 TZ-G 2.8L Diesel,Toyota,2021,37500000.0,7000,Diesel,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11796188,2026-08-27,Jaecoo J7  2026 Premium,Jaecoo,2026,10500000.0,6000,PHEV,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11825154,2026-08-27,Toyota Hilux  2022 Revo Rocco,Toyota,2022,14200000.0,55256,Diesel,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11912997,2026-08-27,MG HS  2021 Trophy,MG,2021,6350000.0,11500,Petrol,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11829667,2026-08-27,Toyota Land Cruiser  2021 GR Sport,Toyota,2021,56200000.0,16000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11475261,2026-08-27,Audi e-tron  2023 50 quattro 230 kW,Audi,2023,23000000.0,15000,Electric,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11829661,2026-08-27,Lexus LX Series  2022 LX 600 Ultra Luxury,Lexus,2022,88500000.0,15000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914178,2026-08-27,Nissan Note  2016 1.2E,Nissan,2016,3599000.0,70000,Hybrid,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914172,2026-08-27,Toyota Belta  2006 G 1.3,Toyota,2006,2250000.0,180000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11743862,2026-08-27,Toyota Corolla  2011 GLi 1.3 VVTi,Toyota,2011,2280000.0,250100,Petrol,Manual,Rawalpindi,2M - 5M PKR,2010 to 2015
+11905292,2026-08-27,Suzuki Swift  2017 DLX 1.3 Navigation,Suzuki,2017,2550000.0,137000,Petrol,Manual,Islamabad,2M - 5M PKR,2016 to 2020
+11914280,2026-08-27,Honda City 6th (GM4) Generation 2024 1.5L ASPIRE CVT,Honda,2024,5450000.0,30000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914279,2026-08-27,Nissan Dayz  2024 Highway Star G,Nissan,2024,4200000.0,5000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2021 to 2026
+11914278,2026-08-27,Honda Civic  2022 Oriel 1.8 i-VTEC CVT,Honda,2022,5700000.0,87000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+10072858,2026-08-27,Ford Mustang  2018 GT,Ford,2018,42500000.0,18000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11914270,2026-08-27,Dongfeng VIGO  2013,Dongfeng,2013,7350000.0,85000,Diesel,Automatic,Karachi,5M - 10M PKR,2010 to 2015
+11780789,2026-08-27,Toyota Corolla  2016 XLi VVTi,Toyota,2016,3400000.0,150000,Petrol,Manual,Abbottabad,2M - 5M PKR,2016 to 2020
+11914273,2026-08-27,Honda Civic 11th (FE) Generation 2025 Oriel,Honda,2025,8700000.0,8000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11111955,2026-08-27,Proton Saga  2024 1.3L Ace A/T,Proton,2024,3600000.0,11000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914271,2026-08-27,Suzuki Alto  2011 VXR,Suzuki,2011,1350000.0,1000,Petrol,Manual,Chakwal,Under 2M PKR,2010 to 2015
+11883575,2026-08-27,Toyota Yaris Sedan  2025 GLI CVT 1.3,Toyota,2025,5050000.0,29500,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11788853,2026-08-27,Toyota Alphard  2005,Toyota,2005,3750000.0,193066,Hybrid,Automatic,Rawalpindi,2M - 5M PKR,Pre-2010
+11913425,2026-08-27,Suzuki Mehran  2005 VXR,Suzuki,2005,760000.0,99880,Petrol,Manual,Islamabad,Under 2M PKR,Pre-2010
+11914266,2026-08-27,Nissan Juke  2017 15RX Premium Personalize Package,Nissan,2017,3500000.0,98000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914264,2026-08-27,KIA Picanto  2020 1.0 MT,KIA,2020,2095000.0,82000,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11724108,2026-08-27,Honda Civic  2016 1.5 RS Turbo,Honda,2016,4900000.0,96000,Petrol,Automatic,Rahim Yar Khan,2M - 5M PKR,2016 to 2020
+11914262,2026-08-27,Suzuki Wagon R  2017 VXR,Suzuki,2017,1950000.0,120000,Petrol,Manual,Lahore,Under 2M PKR,2016 to 2020
+11914261,2026-08-27,Toyota Vitz  2011 F 1.0,Toyota,2011,3000000.0,65035,Petrol,Automatic,Multan,2M - 5M PKR,2010 to 2015
+11914189,2026-08-27,Toyota Corolla  2015 GLi 1.3 VVTi,Toyota,2015,3450000.0,219000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914260,2026-08-27,Suzuki Baleno  2003 JXL,Suzuki,2003,1400000.0,284000,Petrol,Manual,Hyderabad,Under 2M PKR,Pre-2010
+11914259,2026-08-27,Hyundai Santro  2004 Exec,Hyundai,2004,1070000.0,77130,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11914258,2026-08-27,Daihatsu Hijet  2021,Daihatsu,2021,3425000.0,98500,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914257,2026-08-27,Toyota Yaris Hatchback  2022 X,Toyota,2022,4200000.0,59000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11914256,2026-08-27,Honda Civic Reborn (FD) 2012 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2012,2800000.0,163000,Petrol,Automatic,Sahiwal,2M - 5M PKR,2010 to 2015
+11894391,2026-08-27,Changan Alsvin  2023 1.5L DCT Lumiere,Changan,2023,3850000.0,48500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913589,2026-08-27,Suzuki Wagon R  2015 FX Limited,Suzuki,2015,2300000.0,159000,Petrol,Automatic,Peshawar,2M - 5M PKR,2010 to 2015
+11914162,2026-08-27,Toyota Fortuner  2024 Legender,Toyota,2024,17000000.0,48000,Diesel,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11912363,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,31500000.0,25000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914153,2026-08-27,Honda Civic Reborn (FD) 2007 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2007,2200000.0,264000,Petrol,Automatic,Peshawar,2M - 5M PKR,Pre-2010
+11875636,2026-08-27,Suzuki Swift  2019 DLX Automatic 1.3 Navigation,Suzuki,2019,3150000.0,70000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11839008,2026-08-27,Honda Civic 11th (FE) Generation 2022 Oriel,Honda,2022,7590000.0,32000,Petrol,Automatic,Peshawar,5M - 10M PKR,2021 to 2026
+11914140,2026-08-27,BAIC BJ40 Plus  2023 Honorable Edition,BAIC,2023,8400000.0,51000,Petrol,Automatic,Phalia,5M - 10M PKR,2021 to 2026
+11696293,2026-08-27,Honda Civic Rebirth (FB) 2013 Oriel Prosmatec UG,Honda,2013,3395000.0,135000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11888777,2026-08-27,Toyota Fortuner  2026 2.7 G,Toyota,2026,13000000.0,433,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11914125,2026-08-27,Honda City 5th (GM2) Generation 2017 1.3 i-VTEC Prosmatec,Honda,2017,3475000.0,87000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11875809,2026-08-27,Suzuki Wagon R  2021 AGS,Suzuki,2021,2950000.0,76000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914240,2026-08-27,Toyota Corolla  2018 GLi Automatic 1.3 VVTi,Toyota,2018,4625000.0,69800,Petrol,Automatic,Sialkot,2M - 5M PKR,2016 to 2020
+11914254,2026-08-27,Hyundai Sonata  2023 2.5,Hyundai,2023,9200000.0,700,Petrol,Automatic,Bahawalpur,5M - 10M PKR,2021 to 2026
+11122307,2026-08-27,Toyota Raize  2020,Toyota,2020,5980000.0,35000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11612079,2026-08-27,Toyota Raize  2020,Toyota,2020,5480000.0,65100,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11905328,2026-08-27,Toyota Corolla  2025 Altis Grande X CVT-i 1.8 Beige Interior,Toyota,2025,8150000.0,12000,Petrol,Automatic,Multan,5M - 10M PKR,2021 to 2026
+11079382,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,5980000.0,2200,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11121720,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6580000.0,35200,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11914251,2026-08-27,Suzuki Mehran  2005 VXR,Suzuki,2005,560000.0,145000,Petrol,Manual,Faisalabad,Under 2M PKR,Pre-2010
+11914250,2026-08-27,Mitsubishi Pajero Mini  2011 Limited,Mitsubishi,2011,2320000.0,110000,Petrol,Automatic,Abbottabad,2M - 5M PKR,2010 to 2015
+11914231,2026-08-27,Suzuki Alto  2014 ECO-S,Suzuki,2014,3500000.0,54600,Petrol,Automatic,Quetta,2M - 5M PKR,2010 to 2015
+11914249,2026-08-27,Suzuki Cultus  2003 VXR,Suzuki,2003,900000.0,40000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11914248,2026-08-27,Honda City 6th (GM4) Generation 2021 1.2L M/T,Honda,2021,3990000.0,54600,Petrol,Manual,Mian Wali,2M - 5M PKR,2021 to 2026
+11914247,2026-08-27,Toyota Land Cruiser 5th (J80) Generation 1993 VX Limited 4.2D,Toyota,1993,5000000.0,200000,Diesel,Automatic,Wah Cantt,2M - 5M PKR,Pre-2010
+11914246,2026-08-27,Honda Civic  2019 Oriel 1.8 i-VTEC CVT,Honda,2019,6250000.0,50000,Petrol,Automatic,Chawinda,5M - 10M PKR,2016 to 2020
+11914237,2026-08-27,Honda Civic 6th (EJ) Generation 1998 VTi 1.6,Honda,1998,1250000.0,400000,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+11579767,2026-08-27,Hyundai Tucson  2021 AWD A/T Ultimate,Hyundai,2021,6500000.0,60000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914242,2026-08-27,Honda City 6th (GM4) Generation 2021 1.5L ASPIRE CVT,Honda,2021,4825000.0,63000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914239,2026-08-27,Land Rover Defender  2021 110,Land,2021,34200000.0,29000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914238,2026-08-27,Toyota Corolla  2020 Altis CVT-i 1.8,Toyota,2020,5300000.0,220000,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11914226,2026-08-27,Toyota Corolla  2013 Altis SR 1.6,Toyota,2013,4400000.0,52000,Petrol,Manual,Peshawar,2M - 5M PKR,2010 to 2015
+11914228,2026-08-27,Toyota Corolla  2017 Altis Automatic 1.6,Toyota,2017,3950000.0,184000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11654587,2026-08-27,MG HS  2021 Trophy,MG,2021,6100000.0,54000,Petrol,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11914225,2026-08-27,Honda Civic  2003 VTi Oriel 1.6,Honda,2003,1660000.0,110000,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+11914221,2026-08-27,Toyota Vitz  2014,Toyota,2014,3200000.0,118000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11914224,2026-08-27,Toyota Corolla  2015 GLi 1.3 VVTi,Toyota,2015,3700000.0,1,Petrol,Manual,Mian Wali,2M - 5M PKR,2010 to 2015
+11746548,2026-08-27,Honda Civic Reborn (FD) 2014 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2014,3550000.0,100000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11909487,2026-08-27,Toyota Passo  2013 X L Package,Toyota,2013,2650000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11910186,2026-08-27,Toyota Passo  2013 Plus Hana C,Toyota,2013,2575000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11771279,2026-08-27,Honda Civic Reborn (FD) 2016 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2016,3750000.0,65000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11562453,2026-08-27,Honda Civic  2016 Oriel 1.8 i-VTEC CVT,Honda,2016,4495000.0,70000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11856037,2026-08-27,Toyota Corolla  2018 GLi Automatic 1.3 VVTi,Toyota,2018,4250000.0,80000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11898346,2026-08-27,Mercedes Benz E Class 3rd (W211) Generation 2008 E 200 Kompressor Elegance,Mercedes,2008,5100000.0,99000,Petrol,Automatic,Lahore,5M - 10M PKR,Pre-2010
+11822089,2026-08-27,Honda City 6th (GM4) Generation 2026 1.2L CVT,Honda,2026,4839000.0,25,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11663156,2026-08-27,Honda City 6th (GM4) Generation 2022 1.5L ASPIRE CVT,Honda,2022,4815000.0,66000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11866354,2026-08-27,Haval H6  2024 HEV,Haval,2024,9900000.0,39000,Hybrid,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11914109,2026-08-27,Toyota Corolla  2018 Altis Grande CVT-i 1.8,Toyota,2018,4550000.0,110000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11729103,2026-08-27,Toyota Land Cruiser  2008 AX G Selection,Toyota,2008,19500000.0,200000,Petrol,Automatic,Lahore,Over 10M PKR,Pre-2010
+11914223,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,26000000.0,16000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914220,2026-08-27,Nissan Dayz  2013 X,Nissan,2013,1975000.0,110000,Petrol,Automatic,Lahore,Under 2M PKR,2010 to 2015
+11914219,2026-08-27,Toyota Corolla  2009 GLi 1.3 VVTi,Toyota,2009,2300000.0,420000,Petrol,Manual,Mansehra,2M - 5M PKR,Pre-2010
+11897912,2026-08-27,Toyota Raize  2020 G,Toyota,2020,5300000.0,36000,Petrol,Automatic,Renala khurd,5M - 10M PKR,2016 to 2020
+11786728,2026-08-27,Toyota Passo  2016 Moda G,Toyota,2016,3000000.0,106117,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11407537,2026-08-27,KIA Sportage  2022 AWD,KIA,2022,7290000.0,73000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11880052,2026-08-27,Toyota Land Cruiser  2011 AX,Toyota,2011,19000000.0,187000,Petrol,Automatic,Lahore,Over 10M PKR,2010 to 2015
+11914215,2026-08-27,Toyota Prado  2022 TZ-G 2.8L Diesel,Toyota,2022,39500000.0,19000,Diesel,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11685276,2026-08-27,Nissan Roox  2025 S Hybrid,Nissan,2025,4200000.0,50000,Hybrid,Automatic,Bahawalpur,2M - 5M PKR,2021 to 2026
+11914214,2026-08-27,Hyundai Tucson  2025 AWD A/T Ultimate,Hyundai,2025,8350000.0,7000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11914195,2026-08-27,KIA Sportage  2021 Alpha,KIA,2021,5850000.0,69000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11891282,2026-08-27,Suzuki Alto  2022 VXR,Suzuki,2022,2699000.0,55000,Petrol,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11914211,2026-08-27,Hyundai Shehzore  2005 Pickup H-100,Hyundai,2005,2500000.0,200000,Diesel,Manual,Karachi,2M - 5M PKR,Pre-2010
+11914210,2026-08-27,Honda City 5th (GM2) Generation 2011 1.3 i-VTEC,Honda,2011,2770000.0,147000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11789076,2026-08-27,Toyota Prado  2014 TX L Package 2.7,Toyota,2014,18500000.0,90000,Petrol,Automatic,Lahore,Over 10M PKR,2010 to 2015
+11914209,2026-08-27,Toyota Prado  2021 TZ-G 2.8L Diesel,Toyota,2021,37500000.0,7000,Diesel,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11796188,2026-08-27,Jaecoo J7  2026 Premium,Jaecoo,2026,10500000.0,6000,PHEV,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11825154,2026-08-27,Toyota Hilux  2022 Revo Rocco,Toyota,2022,14200000.0,55256,Diesel,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11914197,2026-08-27,BAIC BJ40 Plus  2022 Honorable Edition,BAIC,2022,8450000.0,29000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914203,2026-08-27,Toyota Corolla  2009 GLi 1.3 VVTi,Toyota,2009,2250000.0,200000,Petrol,Manual,Lahore,2M - 5M PKR,Pre-2010
+11914202,2026-08-27,Honda Civic Reborn (FD) 2009 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2009,2230000.0,187000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11914201,2026-08-27,Toyota Corolla  1996,Toyota,1996,2200000.0,900000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11914199,2026-08-27,Suzuki Alto  2018 F,Suzuki,2018,530000.0,99000,Petrol,Automatic,Faisalabad,Under 2M PKR,2016 to 2020
+11912997,2026-08-27,MG HS  2021 Trophy,MG,2021,6350000.0,11500,Petrol,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11914198,2026-08-27,Toyota Corolla  1985 SE Saloon,Toyota,1985,625000.0,165000,Petrol,Manual,Sargodha,Under 2M PKR,Pre-2010
+11914103,2026-08-27,Toyota Corolla  2014 XLi VVTi Limited Edition,Toyota,2014,3550000.0,119000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11903935,2026-08-27,Haval H6  2023 HEV,Haval,2023,9950000.0,27000,Hybrid,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11745989,2026-08-27,BYD Shark 6  2026 Premium,BYD,2026,20099999.0,25,PHEV,Automatic,Faisalabad,Over 10M PKR,2021 to 2026
+11861842,2026-08-27,Toyota Prado  2022 TX L Package 2.7,Toyota,2022,33300000.0,15922,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11841978,2026-08-27,Toyota Land Cruiser  2023 ZX Gasoline 3.5L,Toyota,2023,61800000.0,3356,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11873799,2026-08-27,Honda Vezel  2018 Hybrid RS Honda Sensing,Honda,2018,7200000.0,75000,Hybrid,Automatic,Sialkot,5M - 10M PKR,2016 to 2020
+11914084,2026-08-27,Suzuki Bolan  2021 VX Euro II,Suzuki,2021,1845000.0,57000,Petrol,Manual,Islamabad,Under 2M PKR,2021 to 2026
+11780834,2026-08-27,Honda Civic  2022 1.5 RS Turbo,Honda,2022,7690000.0,99000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11847329,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4400000.0,111000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847371,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4650000.0,109000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847380,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4550000.0,96000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847362,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4500000.0,93000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11829667,2026-08-27,Toyota Land Cruiser  2021 GR Sport,Toyota,2021,56200000.0,16000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914194,2026-08-27,Suzuki Mehran  2012 VX,Suzuki,2012,1060000.0,42000,Petrol,Manual,Sheikhupura,Under 2M PKR,2010 to 2015
+11475261,2026-08-27,Audi e-tron  2023 50 quattro 230 kW,Audi,2023,23000000.0,15000,Electric,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11829661,2026-08-27,Lexus LX Series  2022 LX 600 Ultra Luxury,Lexus,2022,88500000.0,15000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914186,2026-08-27,Suzuki Kei  2001 A,Suzuki,2001,1325000.0,325000,Petrol,Automatic,Multan,Under 2M PKR,Pre-2010
+11914191,2026-08-27,Honda Civic Rebirth (FB) 2016 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2016,4198000.0,78000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11700811,2026-08-27,Suzuki Alto  2022 VXL AGS,Suzuki,2022,2850000.0,47000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2021 to 2026
+11551186,2026-08-27,Nissan Moco  2013 X Idling Stop,Nissan,2013,2300000.0,250000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11914087,2026-08-27,Toyota Corolla  2022 Altis 1.6 X CVT-i Special Edition,Toyota,2022,6550000.0,35000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11914184,2026-08-27,Suzuki Cultus  2012 VXLi,Suzuki,2012,1750000.0,70000,Petrol,Manual,Rawalpindi,Under 2M PKR,2010 to 2015
+11914182,2026-08-27,Toyota Corolla  2016 GLi Automatic 1.3 VVTi,Toyota,2016,3400000.0,80000,Petrol,Automatic,Hyderabad,2M - 5M PKR,2016 to 2020
+11761233,2026-08-27,Daihatsu Mira  2014 X Memorial Edition,Daihatsu,2014,2350000.0,111980,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11851652,2026-08-27,Toyota Passo  2014 X L Package,Toyota,2014,2890000.0,90000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11909656,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC Prosmatec,Honda,2018,3790000.0,87000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11914178,2026-08-27,Nissan Note  2016 1.2E,Nissan,2016,3599000.0,70000,Hybrid,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914169,2026-08-27,Suzuki Alto  2014 ECO-S,Suzuki,2014,2290000.0,89000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11914174,2026-08-27,MG HS  2022 Trophy,MG,2022,5490000.0,149000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914172,2026-08-27,Toyota Belta  2006 G 1.3,Toyota,2006,2250000.0,180000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11894391,2026-08-27,Changan Alsvin  2023 1.5L DCT Lumiere,Changan,2023,3850000.0,48500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913589,2026-08-27,Suzuki Wagon R  2015 FX Limited,Suzuki,2015,2300000.0,159000,Petrol,Automatic,Peshawar,2M - 5M PKR,2010 to 2015
+11914167,2026-08-27,Suzuki Hustler  2023,Suzuki,2023,4200000.0,48000,Hybrid,Automatic,Peshawar,2M - 5M PKR,2021 to 2026
+11914168,2026-08-27,Toyota Vitz  2015 F 1.0,Toyota,2015,3000000.0,32856,Petrol,Automatic,Bahawalpur,2M - 5M PKR,2010 to 2015
+11914165,2026-08-27,Toyota Prius  2011 S Touring Selection 1.8,Toyota,2011,4400000.0,138000,Hybrid,Automatic,Peshawar,2M - 5M PKR,2010 to 2015
+11914162,2026-08-27,Toyota Fortuner  2024 Legender,Toyota,2024,17000000.0,48000,Diesel,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11914157,2026-08-27,MG HS  2025 PHEV,MG,2025,8350000.0,10400,PHEV,Automatic,Sialkot,5M - 10M PKR,2021 to 2026
+11847351,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4500000.0,102000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847359,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4550000.0,118000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+10749765,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6050000.0,34000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11018745,2026-08-27,Toyota Passo  2022 X,Toyota,2022,4150000.0,22500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11370472,2026-08-27,Nissan Dayz  2022 S,Nissan,2022,3850000.0,36000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914079,2026-08-27,Jaecoo J5  2026,Jaecoo,2026,8450000.0,52,Hybrid,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11831302,2026-08-27,Honda City 6th (GM4) Generation 2025 1.2L CVT,Honda,2025,5150000.0,20000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914070,2026-08-27,Suzuki Alto  2024 VXR,Suzuki,2024,2850000.0,38000,Petrol,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11794210,2026-08-27,Mercedes Benz S Class  2015 S400 Hybrid,Mercedes,2015,33500000.0,77500,Hybrid,Automatic,Islamabad,Over 10M PKR,2010 to 2015
+11745741,2026-08-27,Suzuki Wagon R  2017 Hybrid FX,Suzuki,2017,3150000.0,88000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11914059,2026-08-27,Toyota Prado  2019 TX L Package 2.7,Toyota,2019,29000000.0,44000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11733928,2026-08-27,Mazda Flair  2017 Hybrid XS,Mazda,2017,3150000.0,88000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11912363,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,31500000.0,25000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11808944,2026-08-27,KIA Sportage  2023 AWD,KIA,2023,7475000.0,25000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914153,2026-08-27,Honda Civic Reborn (FD) 2007 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2007,2200000.0,264000,Petrol,Automatic,Peshawar,2M - 5M PKR,Pre-2010
+11914155,2026-08-27,Suzuki Cultus  2020 VXL,Suzuki,2020,2850000.0,85000,Petrol,Manual,Rahim Yar Khan,2M - 5M PKR,2016 to 2020
+11875636,2026-08-27,Suzuki Swift  2019 DLX Automatic 1.3 Navigation,Suzuki,2019,3150000.0,70000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11629938,2026-08-27,Honda Civic  2020 Oriel 1.8 i-VTEC CVT,Honda,2020,5985000.0,63000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11914152,2026-08-27,Suzuki Swift  2026 GLX CVT,Suzuki,2026,4825000.0,7500,Petrol,Automatic,Gujranwala,2M - 5M PKR,2021 to 2026
+11914116,2026-08-27,Toyota Prado 3rd (J120) Generation 1996 TZ 3.0D,Toyota,1996,7100000.0,92000,Diesel,Automatic,Nowshera,5M - 10M PKR,Pre-2010
+11786458,2026-08-27,Honda Civic Rebirth (FB) 2013 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2013,4150000.0,125000,Petrol,Automatic,Mardan,2M - 5M PKR,2010 to 2015
+11839008,2026-08-27,Honda Civic 11th (FE) Generation 2022 Oriel,Honda,2022,7590000.0,32000,Petrol,Automatic,Peshawar,5M - 10M PKR,2021 to 2026
+11914140,2026-08-27,BAIC BJ40 Plus  2023 Honorable Edition,BAIC,2023,8400000.0,51000,Petrol,Automatic,Phalia,5M - 10M PKR,2021 to 2026
+11914148,2026-08-27,Toyota Prado 3rd (J120) Generation 2008 GX,Toyota,2008,8790000.0,146000,Diesel,Manual,Rawalpindi,5M - 10M PKR,Pre-2010
+11696293,2026-08-27,Honda Civic Rebirth (FB) 2013 Oriel Prosmatec UG,Honda,2013,3395000.0,135000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11914145,2026-08-27,Suzuki Cultus  2020 VXL,Suzuki,2020,3100000.0,102274,Petrol,Manual,Depal pur,2M - 5M PKR,2016 to 2020
+11888777,2026-08-27,Toyota Fortuner  2026 2.7 G,Toyota,2026,13000000.0,433,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11914141,2026-08-27,Honda Civic 11th (FE) Generation 2023 RS,Honda,2023,8550000.0,42000,Petrol,Automatic,D.G.Khan,5M - 10M PKR,2021 to 2026
+11914125,2026-08-27,Honda City 5th (GM2) Generation 2017 1.3 i-VTEC Prosmatec,Honda,2017,3475000.0,87000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914139,2026-08-27,Nissan Clipper  2014 G Aero Version,Nissan,2014,2350000.0,110000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11875809,2026-08-27,Suzuki Wagon R  2021 AGS,Suzuki,2021,2950000.0,76000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914133,2026-08-27,Honda HR-V  2024 VTi-S,Honda,2024,6990000.0,52000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11746548,2026-08-27,Honda Civic Reborn (FD) 2014 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2014,3550000.0,100000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11909487,2026-08-27,Toyota Passo  2013 X L Package,Toyota,2013,2650000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11910186,2026-08-27,Toyota Passo  2013 Plus Hana C,Toyota,2013,2575000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11771279,2026-08-27,Honda Civic Reborn (FD) 2016 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2016,3750000.0,65000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11562453,2026-08-27,Honda Civic  2016 Oriel 1.8 i-VTEC CVT,Honda,2016,4495000.0,70000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914036,2026-08-27,Suzuki Wagon R  2022 Custom Z Hybrid ZT,Suzuki,2022,3500000.0,75000,Hybrid,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914039,2026-08-27,Suzuki Cultus  2005 VXL,Suzuki,2005,1050000.0,150000,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+11914020,2026-08-27,Honda City 5th (GM2) Generation 2015 1.3 i-VTEC,Honda,2015,2900000.0,225000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11913986,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6350000.0,40000,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11914034,2026-08-27,Toyota Land Cruiser  2018 ZX,Toyota,2018,46500000.0,54000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11883062,2026-08-27,Honda Civic 5th (EG) Generation 1995 EX,Honda,1995,1150000.0,10000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11914027,2026-08-27,Deepal S05  2026 REEV Premium,Deepal,2026,10400000.0,3,PHEV,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11914002,2026-08-27,Toyota Prius  2018 PHV GR Sport,Toyota,2018,9500000.0,140000,PHEV,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11913991,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,3900000.0,123000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913994,2026-08-27,Honda Civic Reborn (FD) 2013 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2013,3175000.0,143000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11913981,2026-08-27,Audi e-tron  2021 50 quattro 230 kW,Audi,2021,13000000.0,102000,Electric,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11888966,2026-08-27,Honda Civic 11th (FE) Generation 2025 RS,Honda,2025,9500000.0,26000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11856037,2026-08-27,Toyota Corolla  2018 GLi Automatic 1.3 VVTi,Toyota,2018,4250000.0,80000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11898346,2026-08-27,Mercedes Benz E Class 3rd (W211) Generation 2008 E 200 Kompressor Elegance,Mercedes,2008,5100000.0,99000,Petrol,Automatic,Lahore,5M - 10M PKR,Pre-2010
+11914127,2026-08-27,Suzuki Swift  2018 DLX Automatic 1.3 Navigation,Suzuki,2018,2650000.0,58000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11625950,2026-08-27,Honda Spike  2011 G,Honda,2011,3200000.0,185000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11822089,2026-08-27,Honda City 6th (GM4) Generation 2026 1.2L CVT,Honda,2026,4839000.0,25,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11914124,2026-08-27,Suzuki Mehran  2005 VX (CNG),Suzuki,2005,1000000.0,110000,Petrol,Manual,Peshawar,Under 2M PKR,Pre-2010
+11914122,2026-08-27,Suzuki Alto  2021 VXL AGS,Suzuki,2021,2650000.0,65000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914120,2026-08-27,Honda Civic  2021 Oriel 1.8 i-VTEC CVT,Honda,2021,7200000.0,28000,Petrol,Automatic,Hangu,5M - 10M PKR,2021 to 2026
+11914121,2026-08-27,Suzuki Alto  2021 VXR,Suzuki,2021,2250000.0,78000,Petrol,Manual,Narowal,2M - 5M PKR,2021 to 2026
+11663156,2026-08-27,Honda City 6th (GM4) Generation 2022 1.5L ASPIRE CVT,Honda,2022,4815000.0,66000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11866354,2026-08-27,Haval H6  2024 HEV,Haval,2024,9900000.0,39000,Hybrid,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11914118,2026-08-27,Honda Civic Reborn (FD) 2011 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2011,2775000.0,180000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11914114,2026-08-27,Toyota Vitz  2017,Toyota,2017,3750000.0,94000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11914113,2026-08-27,Honda Civic Reborn (FD) 2011 VTi 1.8 i-VTEC,Honda,2011,2860000.0,152000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914109,2026-08-27,Toyota Corolla  2018 Altis Grande CVT-i 1.8,Toyota,2018,4550000.0,110000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11914112,2026-08-27,Suzuki Mehran  1993 VXR,Suzuki,1993,310000.0,100000,Petrol,Manual,Multan,Under 2M PKR,Pre-2010
+11729103,2026-08-27,Toyota Land Cruiser  2008 AX G Selection,Toyota,2008,19500000.0,200000,Petrol,Automatic,Lahore,Over 10M PKR,Pre-2010
+11914107,2026-08-27,Toyota Vitz  2019,Toyota,2019,4150000.0,106000,Petrol,Automatic,D.G.Khan,2M - 5M PKR,2016 to 2020
+11914108,2026-08-27,Honda City 5th (GM2) Generation 2012 1.3 i-VTEC,Honda,2012,2600000.0,148000,Petrol,Manual,Multan,2M - 5M PKR,2010 to 2015
+11914103,2026-08-27,Toyota Corolla  2014 XLi VVTi Limited Edition,Toyota,2014,3550000.0,119000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11903935,2026-08-27,Haval H6  2023 HEV,Haval,2023,9950000.0,27000,Hybrid,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11914104,2026-08-27,Honda City  2007 1.5L VTEC,Honda,2007,2200000.0,17693,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11914102,2026-08-27,Toyota Premio  2007 X EX 1.8,Toyota,2007,3150000.0,111123,Petrol,Automatic,Quetta,2M - 5M PKR,Pre-2010
+11745989,2026-08-27,BYD Shark 6  2026 Premium,BYD,2026,20099999.0,25,PHEV,Automatic,Faisalabad,Over 10M PKR,2021 to 2026
+11914101,2026-08-27,Suzuki Bolan  2014 VX Euro II,Suzuki,2014,1350000.0,90000,Petrol,Manual,Abbottabad,Under 2M PKR,2010 to 2015
+11889675,2026-08-27,Honda Civic  2001 VTi Oriel 1.6,Honda,2001,1585000.0,123658,Petrol,Manual,Islamabad,Under 2M PKR,Pre-2010
+11913913,2026-08-27,KIA Sorento  2021 3.5 FWD,KIA,2021,6650000.0,55000,Petrol,Automatic,Sahiwal,5M - 10M PKR,2021 to 2026
+11913961,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,4000000.0,63000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913963,2026-08-27,Honda City 5th (GM2) Generation 2013 1.3 i-VTEC,Honda,2013,2800000.0,106000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11911307,2026-08-27,Honda HR-V  2026 e:HEV,Honda,2026,9500000.0,3683,Hybrid,Automatic,Peshawar,5M - 10M PKR,2021 to 2026
+11874852,2026-08-27,Honda Civic  2019 1.8 i-VTEC CVT,Honda,2019,5100000.0,46846,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913902,2026-08-27,Toyota Corolla  2014 XLi VVTi Limited Edition,Toyota,2014,3350000.0,85000,Petrol,Manual,Jhelum,2M - 5M PKR,2010 to 2015
+11913886,2026-08-27,Subaru Pleo  2014 A,Subaru,2014,2450000.0,112800,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11913910,2026-08-27,Daihatsu Mira  2023 L,Daihatsu,2023,3750000.0,9300,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11803730,2026-08-27,Toyota Yaris Sedan  2025 GLI CVT 1.3,Toyota,2025,4850000.0,22000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11913904,2026-08-27,Toyota Land Cruiser  2008 79 Series 30th Anniversary,Toyota,2008,11000000.0,176896,Diesel,Manual,Islamabad,Over 10M PKR,Pre-2010
+11817180,2026-08-27,Suzuki Every  2012,Suzuki,2012,1650000.0,141180,Petrol,Automatic,Karachi,Under 2M PKR,2010 to 2015
+11914099,2026-08-27,Suzuki Cultus  2014 EURO II,Suzuki,2014,1650000.0,96000,Petrol,Manual,Lahore,Under 2M PKR,2010 to 2015
+11861842,2026-08-27,Toyota Prado  2022 TX L Package 2.7,Toyota,2022,33300000.0,15922,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11841978,2026-08-27,Toyota Land Cruiser  2023 ZX Gasoline 3.5L,Toyota,2023,61800000.0,3356,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11914097,2026-08-27,Suzuki Alto  2014 ECO-L,Suzuki,2014,2270000.0,830000,Petrol,Automatic,Peshawar,2M - 5M PKR,2010 to 2015
+11914094,2026-08-27,Suzuki Alto  2007 X,Suzuki,2007,1080000.0,161000,Petrol,Automatic,Rawalpindi,Under 2M PKR,Pre-2010
+11914092,2026-08-27,Honda City 5th (GM2) Generation 2021 1.5 i-VTEC Prosmatec,Honda,2021,4350000.0,116000,Petrol,Automatic,Multan,2M - 5M PKR,2021 to 2026
+11914093,2026-08-27,Suzuki Mehran  2011 VXR,Suzuki,2011,940000.0,44000,Petrol,Manual,Faisalabad,Under 2M PKR,2010 to 2015
+11873799,2026-08-27,Honda Vezel  2018 Hybrid RS Honda Sensing,Honda,2018,7200000.0,75000,Hybrid,Automatic,Sialkot,5M - 10M PKR,2016 to 2020
+11914090,2026-08-27,Suzuki Cultus  2010 VXRi,Suzuki,2010,1500000.0,69500,Petrol,Manual,Lahore,Under 2M PKR,2010 to 2015
+11914089,2026-08-27,Honda City 5th (GM2) Generation 2015 Aspire Prosmatec 1.5 i-VTEC,Honda,2015,3275000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11895652,2026-08-27,Honda Civic  2017 Oriel 1.8 i-VTEC CVT,Honda,2017,4600000.0,110000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11914084,2026-08-27,Suzuki Bolan  2021 VX Euro II,Suzuki,2021,1845000.0,57000,Petrol,Manual,Islamabad,Under 2M PKR,2021 to 2026
+11780834,2026-08-27,Honda Civic  2022 1.5 RS Turbo,Honda,2022,7690000.0,99000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11847329,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4400000.0,111000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847371,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4650000.0,109000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847380,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4550000.0,96000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847362,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4500000.0,93000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11847351,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4500000.0,102000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914085,2026-08-27,Toyota Corolla  2015 Altis Grande CVT-i 1.8,Toyota,2015,4100000.0,93000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11847359,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4550000.0,118000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914081,2026-08-27,Toyota Corolla  2020 Altis Grande CVT-i 1.8,Toyota,2020,5750000.0,93000,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11889084,2026-08-27,Suzuki Swift  2016 DLX Automatic 1.3 Navigation,Suzuki,2016,2675000.0,86000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2016 to 2020
+10749765,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6050000.0,34000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11018745,2026-08-27,Toyota Passo  2022 X,Toyota,2022,4150000.0,22500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11370472,2026-08-27,Nissan Dayz  2022 S,Nissan,2022,3850000.0,36000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913891,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,29500000.0,35000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11913880,2026-08-27,Toyota Prado  2024,Toyota,2024,54000000.0,769,Petrol,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11847339,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4450000.0,117000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11913876,2026-08-27,Toyota Raize  2021 G,Toyota,2021,5500000.0,63000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913858,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,5400000.0,66000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913852,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,5600000.0,37000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913844,2026-08-27,Daihatsu Rocky  2021 G,Daihatsu,2021,5750000.0,27000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913840,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,6000000.0,13000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913791,2026-08-27,Audi A4  2017 35 TFSI,Audi,2017,7500000.0,132000,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913831,2026-08-27,Daihatsu Rocky  2021 G,Daihatsu,2021,5600000.0,57000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913824,2026-08-27,Toyota Raize  2021 G,Toyota,2021,5300000.0,22700,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913809,2026-08-27,Suzuki Wagon R  2018 VXL,Suzuki,2018,2380000.0,15000,Petrol,Manual,Rawalpindi,2M - 5M PKR,2016 to 2020
+11914079,2026-08-27,Jaecoo J5  2026,Jaecoo,2026,8450000.0,52,Hybrid,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11914077,2026-08-27,Toyota Corolla  2015 GLi Automatic 1.3 VVTi,Toyota,2015,4150000.0,205000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11436548,2026-08-27,Proton Saga  2022 1.3L Ace A/T,Proton,2022,2100000.0,26000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11914076,2026-08-27,KIA Sportage  2019 AWD,KIA,2019,6500000.0,23000,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11912976,2026-08-27,Toyota Vitz  1999 F 1.3,Toyota,1999,1780000.0,125478,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+9724440,2026-08-27,Suzuki Swift  2014 DLX Automatic 1.3,Suzuki,2014,2550000.0,200000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11914069,2026-08-27,Toyota Sienta  2018 Hybrid G,Toyota,2018,5250000.0,128000,Hybrid,Automatic,Mardan,5M - 10M PKR,2016 to 2020
+11914075,2026-08-27,Suzuki Alto  2018,Suzuki,2018,2900000.0,93000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11831302,2026-08-27,Honda City 6th (GM4) Generation 2025 1.2L CVT,Honda,2025,5150000.0,20000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914071,2026-08-27,Honda Civic  2016 Turbo 1.5 VTEC CVT,Honda,2016,4490000.0,103000,Petrol,Automatic,Mandi bahauddin,2M - 5M PKR,2016 to 2020
+11914070,2026-08-27,Suzuki Alto  2024 VXR,Suzuki,2024,2850000.0,38000,Petrol,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11794210,2026-08-27,Mercedes Benz S Class  2015 S400 Hybrid,Mercedes,2015,33500000.0,77500,Hybrid,Automatic,Islamabad,Over 10M PKR,2010 to 2015
+11788305,2026-08-27,Toyota Vitz  2007 F 1.3,Toyota,2007,2750000.0,192000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,Pre-2010
+11914066,2026-08-27,Toyota Aqua  2013 S,Toyota,2013,3779999.0,150000,Hybrid,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11745741,2026-08-27,Suzuki Wagon R  2017 Hybrid FX,Suzuki,2017,3150000.0,88000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11914062,2026-08-27,Suzuki Cultus  2007 VXR,Suzuki,2007,1150000.0,200000,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+11914059,2026-08-27,Toyota Prado  2019 TX L Package 2.7,Toyota,2019,29000000.0,44000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11914060,2026-08-27,Jetour Dashing  2026 Deluxe,Jetour,2026,7500000.0,7500,Petrol,Automatic,Sialkot,5M - 10M PKR,2021 to 2026
+11914053,2026-08-27,Toyota Vitz  2014 F 1.0,Toyota,2014,2600000.0,142000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11914058,2026-08-27,Honda Civic  2004 VTi Oriel 1.6,Honda,2004,1700000.0,300000,Petrol,Manual,Sheikhupura,Under 2M PKR,Pre-2010
+11733928,2026-08-27,Mazda Flair  2017 Hybrid XS,Mazda,2017,3150000.0,88000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2016 to 2020
+11914052,2026-08-27,Suzuki Swift  2012 DLX Automatic 1.3,Suzuki,2012,930000.0,70000,Petrol,Automatic,Quetta,Under 2M PKR,2010 to 2015
+11914036,2026-08-27,Suzuki Wagon R  2022 Custom Z Hybrid ZT,Suzuki,2022,3500000.0,75000,Hybrid,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11914047,2026-08-27,Toyota Pixis Van  2017 Deluxe,Toyota,2017,1670000.0,186000,Petrol,Automatic,Faisalabad,Under 2M PKR,2016 to 2020
+11914048,2026-08-27,Honda City  2005 i-DSI,Honda,2005,1800000.0,79000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11810083,2026-08-27,Isuzu D-Max  2020 V-Cross Limited GTX Edition,Isuzu,2020,7990000.0,85000,Diesel,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11883169,2026-08-27,Toyota Corolla  2017 GLi Automatic 1.3 VVTi,Toyota,2017,4575000.0,73000,Petrol,Automatic,Gujar Khan,2M - 5M PKR,2016 to 2020
+11789176,2026-08-27,Suzuki Swift  2025 GLX CVT,Suzuki,2025,4780000.0,25000,Petrol,Automatic,Bahawalpur,2M - 5M PKR,2021 to 2026
+11627288,2026-08-27,Toyota Corolla  2019 Altis Grande CVT-i 1.8,Toyota,2019,5750000.0,90000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11913594,2026-08-27,Honda City 5th (GM2) Generation 2017 1.3 i-VTEC Prosmatec,Honda,2017,3675000.0,84752,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11913768,2026-08-27,Honda Civic  2021 Oriel 1.8 i-VTEC CVT,Honda,2021,6450000.0,55000,Petrol,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11412596,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9300000.0,9,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11361086,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9413000.0,8,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11883933,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9413000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11883937,2026-08-27,Haval H6  2026,Haval,2026,9413000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11883986,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9413000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11884006,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9413000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914040,2026-08-27,Honda Civic  2018 Oriel 1.8 i-VTEC CVT,Honda,2018,5650000.0,88000,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11914050,2026-08-27,Willys MB  2026,Willys,2026,2625000.0,123,Diesel,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11914039,2026-08-27,Suzuki Cultus  2005 VXL,Suzuki,2005,1050000.0,150000,Petrol,Manual,Rawalpindi,Under 2M PKR,Pre-2010
+11183599,2026-08-27,Toyota Aygo  2015,Toyota,2015,2375000.0,95324,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11914043,2026-08-27,Daihatsu Cuore  2007 CX Eco,Daihatsu,2007,650000.0,200000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11914042,2026-08-27,Suzuki Fronx  2026 GLX A/T Mono Tone,Suzuki,2026,6900000.0,100,Hybrid,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11914041,2026-08-27,Suzuki Swift  2017 DLX Automatic 1.3 Navigation,Suzuki,2017,2550000.0,74000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914038,2026-08-27,Toyota Corolla  2022 Altis Grande X CVT-i 1.8 Black Interior,Toyota,2022,7100000.0,56000,Petrol,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11914020,2026-08-27,Honda City 5th (GM2) Generation 2015 1.3 i-VTEC,Honda,2015,2900000.0,225000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11913986,2026-08-27,Toyota Raize  2020 Z,Toyota,2020,6350000.0,40000,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11914034,2026-08-27,Toyota Land Cruiser  2018 ZX,Toyota,2018,46500000.0,54000,Petrol,Automatic,Karachi,Over 10M PKR,2016 to 2020
+11914030,2026-08-27,Honda Civic  1991,Honda,1991,680000.0,999,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11914033,2026-08-27,Honda Civic  2018 Oriel 1.8 i-VTEC CVT,Honda,2018,5370000.0,145000,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11914023,2026-08-27,Honda City 5th (GM2) Generation 2017 Aspire Prosmatec 1.5 i-VTEC,Honda,2017,3800000.0,25800,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11883062,2026-08-27,Honda Civic 5th (EG) Generation 1995 EX,Honda,1995,1150000.0,10000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11914028,2026-08-27,Toyota Corolla  2017 Altis Grande CVT-i 1.8,Toyota,2017,4985000.0,128000,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11914027,2026-08-27,Deepal S05  2026 REEV Premium,Deepal,2026,10400000.0,3,PHEV,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11914026,2026-08-27,Toyota Yaris Sedan  2021 ATIV CVT 1.3,Toyota,2021,4100000.0,82000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11914025,2026-08-27,Honda Civic  2002 VTi Oriel 1.6,Honda,2002,1850000.0,353000,Petrol,Manual,Nankana sahib,Under 2M PKR,Pre-2010
+11909915,2026-08-27,Honda City 5th (GM2) Generation 2009 1.3 i-VTEC Prosmatec,Honda,2009,2600000.0,150000,Petrol,Automatic,Peshawar,2M - 5M PKR,Pre-2010
+11914019,2026-08-27,Honda Civic  2021 Oriel 1.8 i-VTEC CVT,Honda,2021,7000000.0,18500,Petrol,Automatic,Peshawar,5M - 10M PKR,2021 to 2026
+11914017,2026-08-27,Honda Civic  2016 Turbo 1.5 VTEC CVT,Honda,2016,4500000.0,82000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11478820,2026-08-27,Honda Civic Reborn (FD) 2011 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2011,2780000.0,100000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11914014,2026-08-27,Toyota Belta  2006 X 1.3,Toyota,2006,2600000.0,200000,Petrol,Automatic,Islamabad,2M - 5M PKR,Pre-2010
+11914008,2026-08-27,Suzuki Mehran  2008 VXR,Suzuki,2008,650000.0,100000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11884032,2026-08-27,Haval Jolion  2026 1.5T,Haval,2026,8228000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11885194,2026-08-27,Haval H6  2026 1.5T,Haval,2026,9413000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11885228,2026-08-27,Haval Jolion  2026 1.5T,Haval,2026,8228000.0,5,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11913245,2026-08-27,MG HS  2021 Trophy,MG,2021,6100000.0,67000,Petrol,Automatic,Multan,5M - 10M PKR,2021 to 2026
+11899267,2026-08-27,Suzuki Cultus  2008 VXRi,Suzuki,2008,1245000.0,1000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11704848,2026-08-27,Porsche Cayenne  2018 S E-Hybrid,Porsche,2018,49500000.0,47000,Hybrid,Automatic,Lahore,Over 10M PKR,2016 to 2020
+11850872,2026-08-27,Suzuki Alto  2022 VXL AGS,Suzuki,2022,2875000.0,45000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11789789,2026-08-27,Toyota Corolla  2012 GLi Automatic 1.6 VVTi,Toyota,2012,2925000.0,98000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11784674,2026-08-27,Hyundai Sonata  2021 2.5,Hyundai,2021,8350000.0,38000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11885447,2026-08-27,Suzuki Cultus  2018 Auto Gear Shift,Suzuki,2018,2695000.0,97731,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+10784161,2026-08-27,Toyota Hilux  2017 Revo V Automatic 3.0,Toyota,2017,9500000.0,100000,Diesel,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11872969,2026-08-27,Toyota Corolla 9th (E120) Generation 2004 XLi,Toyota,2004,1500000.0,352985,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11914002,2026-08-27,Toyota Prius  2018 PHV GR Sport,Toyota,2018,9500000.0,140000,PHEV,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11913991,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,3900000.0,123000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11914007,2026-08-27,Toyota Corolla  2017 Altis Grande CVT-i 1.8,Toyota,2017,4820000.0,195500,Petrol,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11843628,2026-08-27,Proton X70  2022 Premium FWD,Proton,2022,6000000.0,53000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913994,2026-08-27,Honda Civic Reborn (FD) 2013 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2013,3175000.0,143000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11913981,2026-08-27,Audi e-tron  2021 50 quattro 230 kW,Audi,2021,13000000.0,102000,Electric,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11888966,2026-08-27,Honda Civic 11th (FE) Generation 2025 RS,Honda,2025,9500000.0,26000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11914000,2026-08-27,Honda City  2005 i-DSI,Honda,2005,1500000.0,226000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11913998,2026-08-27,Suzuki Swift  2015 DLX Automatic 1.3,Suzuki,2015,2300000.0,64000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11913996,2026-08-27,Toyota Corolla  2016 Altis CVT-i 1.8,Toyota,2016,3900000.0,85000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913995,2026-08-27,Honda City 5th (GM2) Generation 2021 1.3 i-VTEC,Honda,2021,3950000.0,44273,Petrol,Manual,Zahir Peer,2M - 5M PKR,2021 to 2026
+11913993,2026-08-27,Toyota Corolla  2015,Toyota,2015,3300000.0,150000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11913990,2026-08-27,Toyota Corolla  2008 GLi 1.3 VVTi,Toyota,2008,2475000.0,123,Petrol,Manual,Lahore,2M - 5M PKR,Pre-2010
+11913989,2026-08-27,JAC T9  2026 Frison RWD,JAC,2026,9290000.0,7581,Diesel,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11913545,2026-08-27,Toyota Corolla  2009 GLi 1.3 VVTi,Toyota,2009,2350000.0,190000,Petrol,Manual,Islamabad,2M - 5M PKR,Pre-2010
+11913985,2026-08-27,Toyota Corolla  2008,Toyota,2008,1900000.0,175000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11913983,2026-08-27,Suzuki Mehran  2016 VXR Euro II,Suzuki,2016,700000.0,110000,Petrol,Manual,Rawalpindi,Under 2M PKR,2016 to 2020
+11889675,2026-08-27,Honda Civic  2001 VTi Oriel 1.6,Honda,2001,1585000.0,123658,Petrol,Manual,Islamabad,Under 2M PKR,Pre-2010
+9917997,2026-08-27,Toyota Yaris Sedan  2020 ATIV X CVT 1.5,Toyota,2020,4395000.0,70000,Petrol,Automatic,Sialkot,2M - 5M PKR,2016 to 2020
+11913979,2026-08-27,Toyota Passo  2012 X L Package,Toyota,2012,2695000.0,145300,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11913913,2026-08-27,KIA Sorento  2021 3.5 FWD,KIA,2021,6650000.0,55000,Petrol,Automatic,Sahiwal,5M - 10M PKR,2021 to 2026
+11913958,2026-08-27,Daihatsu Mira  2023 X SA lll,Daihatsu,2023,3920000.0,82000,Petrol,Automatic,Peshawar,2M - 5M PKR,2021 to 2026
+11903622,2026-08-27,Honda Civic Rebirth (FB) 2013 Oriel Prosmatec UG,Honda,2013,3875000.0,100000,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11913980,2026-08-27,Toyota Yaris Sedan  2021 ATIV X CVT 1.5,Toyota,2021,4800000.0,113500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11156452,2026-08-27,Toyota Aqua  2016 X Urban Solid,Toyota,2016,4776000.0,99000,Hybrid,Automatic,Islamabad,2M - 5M PKR,2016 to 2020
+11913727,2026-08-27,Honda Civic 11th (FE) Generation 2026 RS,Honda,2026,10200000.0,18885,Petrol,Automatic,Rawalpindi,Over 10M PKR,2021 to 2026
+11780248,2026-08-27,KIA Sorento  2025 1.6T HEV AWD,KIA,2025,16399999.0,15000,Hybrid,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11913693,2026-08-27,Honda HR-V  2022 VTi-S,Honda,2022,6800000.0,35000,Petrol,Automatic,Kharian,5M - 10M PKR,2021 to 2026
+11911711,2026-08-27,Honda City 6th (GM4) Generation 2024 1.2L CVT,Honda,2024,4685000.0,60200,Petrol,Automatic,Gujar Khan,2M - 5M PKR,2021 to 2026
+11899248,2026-08-27,KIA Stonic  2025 EX,KIA,2025,4695000.0,28000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11905256,2026-08-27,Hyundai Tucson  2023 FWD A/T GLS,Hyundai,2023,7450000.0,34305,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11910057,2026-08-27,Toyota Prado  2012 TX 2.7,Toyota,2012,15000000.0,92000,Petrol,Automatic,Karachi,Over 10M PKR,2010 to 2015
+11859355,2026-08-27,Master Foton  2021 M-280,Master,2021,3950000.0,60000,Diesel,Manual,Karachi,2M - 5M PKR,2021 to 2026
+11913625,2026-08-27,Honda City 6th (GM4) Generation 2024 1.2L CVT,Honda,2024,4590000.0,30000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11913671,2026-08-27,Toyota Crown  2015 Royal Saloon,Toyota,2015,11000000.0,130000,Petrol,Automatic,Islamabad,Over 10M PKR,2010 to 2015
+11000882,2026-08-27,Toyota Vitz  2003 FL 1.0,Toyota,2003,1900000.0,116000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11913653,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,26000000.0,40000,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11913977,2026-08-27,Hyundai Santro  2004 Exec GV,Hyundai,2004,1075000.0,1000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11913961,2026-08-27,Honda BR-V  2018 i-VTEC S,Honda,2018,4000000.0,63000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11900474,2026-08-27,Honda Civic  2022 1.5 VTEC Turbo Oriel,Honda,2022,6980000.0,76000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11913949,2026-08-27,Toyota Corolla Fielder  2007,Toyota,2007,320000.0,200000,Petrol,Automatic,Islamabad,Under 2M PKR,Pre-2010
+11913975,2026-08-27,Toyota Surf  1996 SSR-X 2.7,Toyota,1996,4750000.0,160000,Petrol,Automatic,Islamabad,2M - 5M PKR,Pre-2010
+11913972,2026-08-27,Suzuki Wagon R  2022 VXL,Suzuki,2022,2950000.0,92000,Petrol,Manual,Lahore,2M - 5M PKR,2021 to 2026
+11913973,2026-08-27,Suzuki Alto  2002 VXR,Suzuki,2002,819999.0,472301,Petrol,Manual,Mansehra,Under 2M PKR,Pre-2010
+11913970,2026-08-27,Toyota Passo  2018 X S,Toyota,2018,3300000.0,132000,Petrol,Automatic,Hyderabad,2M - 5M PKR,2016 to 2020
+11733333,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC Prosmatec,Honda,2018,3850000.0,115000,Petrol,Automatic,Jhelum,2M - 5M PKR,2016 to 2020
+11913971,2026-08-27,Toyota Corolla 9th (E120) Generation 2006 GLi 1.3,Toyota,2006,2200000.0,1500,Petrol,Manual,Mansehra,2M - 5M PKR,Pre-2010
+11913968,2026-08-27,Honda City 5th (GM2) Generation 2020 1.3 i-VTEC,Honda,2020,4200000.0,95000,Petrol,Manual,Shuja Abad,2M - 5M PKR,2016 to 2020
+11913963,2026-08-27,Honda City 5th (GM2) Generation 2013 1.3 i-VTEC,Honda,2013,2800000.0,106000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11913817,2026-08-27,Toyota Raize  2023,Toyota,2023,6000000.0,18622,Petrol,Automatic,Sialkot,5M - 10M PKR,2021 to 2026
+11911200,2026-08-27,Honda City  2007 i-DSI Vario,Honda,2007,2050000.0,190000,Petrol,Automatic,Karachi,2M - 5M PKR,Pre-2010
+11913607,2026-08-27,Honda City 5th (GM2) Generation 2020 1.3 i-VTEC,Honda,2020,3590000.0,61000,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11913962,2026-08-27,Suzuki Every Wagon  2013 JP Turbo,Suzuki,2013,2450000.0,135000,Petrol,Automatic,Taxila,2M - 5M PKR,2010 to 2015
+11913554,2026-08-27,Suzuki Cultus  2019 VXL,Suzuki,2019,2600000.0,20,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11911307,2026-08-27,Honda HR-V  2026 e:HEV,Honda,2026,9500000.0,3683,Hybrid,Automatic,Peshawar,5M - 10M PKR,2021 to 2026
+11913504,2026-08-27,Suzuki Mehran  2013 VXR Euro II,Suzuki,2013,1050000.0,79000,Petrol,Manual,Islamabad,Under 2M PKR,2010 to 2015
+11913960,2026-08-27,Toyota Vitz  2010 F 1.0,Toyota,2010,2100000.0,67000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11913959,2026-08-27,Suzuki Wagon R  2018 VXL,Suzuki,2018,2250000.0,150000,Petrol,Manual,Peshawar,2M - 5M PKR,2016 to 2020
+11913957,2026-08-27,Toyota Raize  2020 G,Toyota,2020,5700000.0,79500,Petrol,Automatic,Peshawar,5M - 10M PKR,2016 to 2020
+11913953,2026-08-27,Suzuki Mehran  2007 VXR (CNG),Suzuki,2007,760000.0,110112,Petrol,Manual,Gujranwala,Under 2M PKR,Pre-2010
+11913952,2026-08-27,Suzuki Every  2026 VXR,Suzuki,2026,2600000.0,6000,Petrol,Manual,Karachi,2M - 5M PKR,2021 to 2026
+11913951,2026-08-27,Suzuki Alto  2014 ECO-S,Suzuki,2014,2275000.0,108000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11913644,2026-08-27,MG HS  2023 Trophy,MG,2023,6175000.0,70000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11831914,2026-08-27,Toyota Land Cruiser  2023 ZX Gasoline 3.5L,Toyota,2023,58500000.0,13900,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11907072,2026-08-27,Honda Civic 11th (FE) Generation 2022 Oriel,Honda,2022,7600000.0,36440,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11891618,2026-08-27,KIA Picanto  2022 1.0 AT,KIA,2022,3090000.0,42000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913637,2026-08-27,Toyota Pixis Epoch  2021 G,Toyota,2021,3200000.0,55000,Petrol,Automatic,Multan,2M - 5M PKR,2021 to 2026
+11913534,2026-08-27,Toyota Passo  2012 Plus Hana C,Toyota,2012,2550000.0,111000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11890615,2026-08-27,Honda Civic  2004 VTi Oriel 1.6,Honda,2004,2050000.0,180000,Petrol,Manual,Islamabad,2M - 5M PKR,Pre-2010
+11553960,2026-08-27,MG HS  2021 1.5 Turbo,MG,2021,7000000.0,2000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913605,2026-08-27,Suzuki Wagon R  2021 VXL,Suzuki,2021,2760000.0,53000,Petrol,Manual,Sialkot,2M - 5M PKR,2021 to 2026
+11556459,2026-08-27,Toyota Corolla  2015 GLi Automatic 1.3 VVTi,Toyota,2015,3600000.0,57000,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11881244,2026-08-27,Toyota Aqua  2017 S LED Soft Leather Selection,Toyota,2017,4800000.0,121126,Hybrid,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11851245,2026-08-27,Nissan Dayz  2023 X,Nissan,2023,3875000.0,31500,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913947,2026-08-27,Nissan Dayz  2021 Highway Star G,Nissan,2021,3750000.0,39000,Hybrid,Automatic,Gujranwala,2M - 5M PKR,2021 to 2026
+11913945,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC Prosmatec,Honda,2018,3300000.0,105000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913944,2026-08-27,Honda Civic  2022 1.5 VTEC Turbo Oriel,Honda,2022,7350000.0,85000,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11913941,2026-08-27,Honda City  2000 EXi,Honda,2000,1510000.0,260000,Petrol,Manual,Islamabad,Under 2M PKR,Pre-2010
+11913939,2026-08-27,Audi A6 4th (C7) Generation 2018 1.8 TFSI Business Class Edition,Audi,2018,13500000.0,52000,Petrol,Automatic,Lahore,Over 10M PKR,2016 to 2020
+11913938,2026-08-27,Toyota Vitz  2014 F 1.0,Toyota,2014,3500000.0,77000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913936,2026-08-27,Toyota Passo  2013 Plus Hana C,Toyota,2013,2880000.0,129000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913932,2026-08-27,Nissan Juke  2011 15RX Urban Selection,Nissan,2011,3650000.0,90000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11727219,2026-08-27,Suzuki Swift  2011 DLX 1.3,Suzuki,2011,1980000.0,156000,Petrol,Manual,Islamabad,Under 2M PKR,2010 to 2015
+11913931,2026-08-27,Suzuki Cultus  2016 Limited Edition,Suzuki,2016,1700000.0,98967,Petrol,Manual,Multan,Under 2M PKR,2016 to 2020
+11913929,2026-08-27,Hyundai Tucson  2025 Hybrid Signature,Hyundai,2025,12100000.0,1650,Hybrid,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11913926,2026-08-27,Toyota Corolla  2006 X HID 40th Anniversary Limited 1.5,Toyota,2006,4800000.0,90000,Petrol,Automatic,Charsadda,2M - 5M PKR,Pre-2010
+11874852,2026-08-27,Honda Civic  2019 1.8 i-VTEC CVT,Honda,2019,5100000.0,46846,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913922,2026-08-27,Toyota Corolla  2011 GLi 1.3 VVTi,Toyota,2011,3500000.0,166000,Petrol,Manual,Islamabad,2M - 5M PKR,2010 to 2015
+11913902,2026-08-27,Toyota Corolla  2014 XLi VVTi Limited Edition,Toyota,2014,3350000.0,85000,Petrol,Manual,Jhelum,2M - 5M PKR,2010 to 2015
+11913886,2026-08-27,Subaru Pleo  2014 A,Subaru,2014,2450000.0,112800,Petrol,Automatic,Karachi,2M - 5M PKR,2010 to 2015
+11913920,2026-08-27,Honda Civic Reborn (FD) 2007 VTi Oriel Prosmatec 1.8 i-VTEC,Honda,2007,2380000.0,100000,Petrol,Automatic,Mardan,2M - 5M PKR,Pre-2010
+11913918,2026-08-27,Toyota Corolla  2021 Altis Grande X CVT-i 1.8 Beige Interior,Toyota,2021,6200000.0,34000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913917,2026-08-27,Toyota Corolla  2012 Altis 1.6,Toyota,2012,3250000.0,207000,Petrol,Manual,Lahore,2M - 5M PKR,2010 to 2015
+11913910,2026-08-27,Daihatsu Mira  2023 L,Daihatsu,2023,3750000.0,9300,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11913916,2026-08-27,Hyundai Santro  2009 Exec GV,Hyundai,2009,1370000.0,170000,Petrol,Manual,Faisalabad,Under 2M PKR,Pre-2010
+11913915,2026-08-27,Honda City 5th (GM2) Generation 2019 1.3 i-VTEC,Honda,2019,360000.0,59000,Petrol,Manual,Vehari,Under 2M PKR,2016 to 2020
+11803730,2026-08-27,Toyota Yaris Sedan  2025 GLI CVT 1.3,Toyota,2025,4850000.0,22000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2021 to 2026
+11913904,2026-08-27,Toyota Land Cruiser  2008 79 Series 30th Anniversary,Toyota,2008,11000000.0,176896,Diesel,Manual,Islamabad,Over 10M PKR,Pre-2010
+11913912,2026-08-27,Toyota Belta  2006 X Business A Package 1.3,Toyota,2006,2450000.0,100000,Petrol,Automatic,Wah Cantt,2M - 5M PKR,Pre-2010
+11778249,2026-08-27,Toyota Prius  2013 G LED Edition 1.8,Toyota,2013,4500000.0,126121,Hybrid,Automatic,Faisalabad,2M - 5M PKR,2010 to 2015
+11822923,2026-08-27,Honda City  2001 EXi,Honda,2001,900000.0,209838,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11846627,2026-08-27,Honda N Wgn  2019 G,Honda,2019,3500000.0,70062,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11504010,2026-08-27,Suzuki Alto  2023 L Upgrade,Suzuki,2023,3775000.0,3000,Petrol,Automatic,Lahore,2M - 5M PKR,2021 to 2026
+11846595,2026-08-27,Haval Jolion  2024 HEV,Haval,2024,8700000.0,26071,Hybrid,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11900971,2026-08-27,Honda Civic  2017 Oriel 1.8 i-VTEC CVT,Honda,2017,4580000.0,151000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11831924,2026-08-27,Toyota Land Cruiser  2023 ZX Gasoline 3.5L,Toyota,2023,59500000.0,7800,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11909856,2026-08-27,Toyota Yaris Hatchback  2021 X,Toyota,2021,4400000.0,48000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11913560,2026-08-27,Toyota Prado  2021 TX Limited 2.7,Toyota,2021,26500000.0,39000,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11890175,2026-08-27,Mercedes Benz C Class  2002 C180,Mercedes,2002,2600000.0,135000,Petrol,Automatic,Lahore,2M - 5M PKR,Pre-2010
+11913555,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,25200000.0,48000,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11913550,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,25600000.0,44000,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11817180,2026-08-27,Suzuki Every  2012,Suzuki,2012,1650000.0,141180,Petrol,Automatic,Karachi,Under 2M PKR,2010 to 2015
+11907000,2026-08-27,Honda City 5th (GM2) Generation 2018 1.3 i-VTEC,Honda,2018,2890000.0,156000,Petrol,Manual,Khushab,2M - 5M PKR,2016 to 2020
+11913899,2026-08-27,Suzuki Wagon R  2019 Hybrid FX,Suzuki,2019,365000.0,87000,Hybrid,Automatic,Peshawar,Under 2M PKR,2016 to 2020
+11913903,2026-08-27,Daihatsu Mira  2012 ES,Daihatsu,2012,2475000.0,115000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913900,2026-08-27,Honda Civic  2018 Oriel 1.8 i-VTEC CVT,Honda,2018,5100000.0,85000,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913898,2026-08-27,Daihatsu Move  2007,Daihatsu,2007,1625000.0,85000,Petrol,Automatic,Karachi,Under 2M PKR,Pre-2010
+11913897,2026-08-27,Suzuki Cultus  2014 EURO II,Suzuki,2014,1360000.0,80000,Petrol,Manual,Karachi,Under 2M PKR,2010 to 2015
+11913891,2026-08-27,Toyota Prado  2021 TX L Package 2.7,Toyota,2021,29500000.0,35000,Petrol,Automatic,Lahore,Over 10M PKR,2021 to 2026
+11579743,2026-08-27,Toyota Hilux  2015 Vigo Champ GX,Toyota,2015,7950000.0,58000,Diesel,Manual,Islamabad,5M - 10M PKR,2010 to 2015
+11913894,2026-08-27,Honda Civic  2002 VTi Prosmatec 1.6,Honda,2002,1820000.0,200000,Petrol,Automatic,Kasur,Under 2M PKR,Pre-2010
+11913893,2026-08-27,Honda Civic  2021 Oriel 1.8 i-VTEC CVT,Honda,2021,6400000.0,65000,Petrol,Automatic,Burewala,5M - 10M PKR,2021 to 2026
+11913884,2026-08-27,Toyota Corolla  2012 Altis SR Cruisetronic 1.6,Toyota,2012,3700000.0,130000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913890,2026-08-27,Suzuki Bolan  2013 VX Euro II,Suzuki,2013,1019999.0,100000,Petrol,Manual,Karachi,Under 2M PKR,2010 to 2015
+11318392,2026-08-27,Toyota Corolla  2016 GLi 1.3 VVTi,Toyota,2016,3750000.0,147701,Petrol,Manual,Islamabad,2M - 5M PKR,2016 to 2020
+11913889,2026-08-27,Honda Civic  2020 Oriel 1.8 i-VTEC CVT,Honda,2020,6200000.0,65000,Petrol,Automatic,Sargodha,5M - 10M PKR,2016 to 2020
+11913888,2026-08-27,Suzuki Alto  2022 VXL AGS,Suzuki,2022,2850000.0,79000,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11913885,2026-08-27,Suzuki Wagon R  2024 Hybrid ZX,Suzuki,2024,4450000.0,29438,Hybrid,Automatic,Peshawar,2M - 5M PKR,2021 to 2026
+11913883,2026-08-27,Daihatsu Cuore  2007 CX Eco,Daihatsu,2007,980000.0,60000,Petrol,Manual,Rahim Yar Khan,Under 2M PKR,Pre-2010
+11777727,2026-08-27,Toyota Vitz  1999 FL 1.0,Toyota,1999,2050000.0,90000,Petrol,Automatic,Karachi,2M - 5M PKR,Pre-2010
+11913880,2026-08-27,Toyota Prado  2024,Toyota,2024,54000000.0,769,Petrol,Automatic,Islamabad,Over 10M PKR,2021 to 2026
+11913881,2026-08-27,Honda N Wgn  2014 G L Package,Honda,2014,2350000.0,116000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2010 to 2015
+11847339,2026-08-27,Toyota Raize  2021 XS,Toyota,2021,4450000.0,117000,Petrol,Automatic,Karachi,2M - 5M PKR,2021 to 2026
+11913878,2026-08-27,Suzuki Margalla  1996 GLX,Suzuki,1996,790000.0,235413,Petrol,Manual,Wah Cantt,Under 2M PKR,Pre-2010
+11913875,2026-08-27,Suzuki Wagon R  2013 Stingray X,Suzuki,2013,2280000.0,223000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11507059,2026-08-27,Suzuki Liana  2006 AXi,Suzuki,2006,1250000.0,226000,Petrol,Manual,Multan,Under 2M PKR,Pre-2010
+11725393,2026-08-27,Honda Freed  2016 + Hybrid G Honda Sensing,Honda,2016,4800000.0,100000,Hybrid,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11778196,2026-08-27,FAW V2  2018 VCT-i,FAW,2018,1500000.0,106060,Petrol,Manual,Faisalabad,Under 2M PKR,2016 to 2020
+11890122,2026-08-27,Hyundai Tucson  2021 AWD A/T Ultimate,Hyundai,2021,6800000.0,81069,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11846519,2026-08-27,Toyota Passo  2016 Moda S,Toyota,2016,3300000.0,70938,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11913521,2026-08-27,Suzuki APV  2011 GLX,Suzuki,2011,2750000.0,213456,Petrol,Manual,Chakwal,2M - 5M PKR,2010 to 2015
+11681269,2026-08-27,Toyota Fortuner  2021 2.7 V,Toyota,2021,12200000.0,42928,Petrol,Automatic,Karachi,Over 10M PKR,2021 to 2026
+11822864,2026-08-27,Haval H6  2025 1.5T,Haval,2025,9250000.0,6369,Petrol,Automatic,Lahore,5M - 10M PKR,2021 to 2026
+11890449,2026-08-27,Subaru Stella  2017 G Smart Assist,Subaru,2017,3100000.0,87070,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11831705,2026-08-27,KIA Sportage  2024 FWD,KIA,2024,7000000.0,27881,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11451522,2026-08-27,MG HS  2021 1.5 Turbo,MG,2021,5650000.0,69500,Petrol,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11726327,2026-08-27,Honda Civic Reborn (FD) 2007 VTi 1.8 i-VTEC,Honda,2007,2500000.0,154972,Petrol,Manual,Rawalpindi,2M - 5M PKR,Pre-2010
+11913487,2026-08-27,Suzuki Alto  2025 VXL AGS Upgraded,Suzuki,2025,3350000.0,8180,Petrol,Automatic,Islamabad,2M - 5M PKR,2021 to 2026
+11913873,2026-08-27,Toyota Vitz  2017 F Safety 1.0,Toyota,2017,3860000.0,81000,Petrol,Automatic,Mardan,2M - 5M PKR,2016 to 2020
+11913877,2026-08-27,Honda City  2006 i-DSI,Honda,2006,1750000.0,33212,Petrol,Manual,Chakwal,Under 2M PKR,Pre-2010
+11913876,2026-08-27,Toyota Raize  2021 G,Toyota,2021,5500000.0,63000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913874,2026-08-27,Toyota Corolla  2018 GLi Automatic 1.3 VVTi,Toyota,2018,4450000.0,180000,Petrol,Automatic,Nankana sahib,2M - 5M PKR,2016 to 2020
+11913871,2026-08-27,Suzuki Cultus  2005 VXR,Suzuki,2005,725000.0,100000,Petrol,Manual,Karachi,Under 2M PKR,Pre-2010
+11913870,2026-08-27,Suzuki Mehran  2004 VXR,Suzuki,2004,630000.0,10000,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11913869,2026-08-27,KIA Sportage  2024 AWD,KIA,2024,7800000.0,31058,Petrol,Automatic,Sargodha,5M - 10M PKR,2021 to 2026
+11913867,2026-08-27,Honda City 5th (GM2) Generation 2019 1.3 i-VTEC Prosmatec,Honda,2019,3700000.0,98000,Petrol,Automatic,Wah Cantt,2M - 5M PKR,2016 to 2020
+11913866,2026-08-27,Toyota Corolla  2017 Altis Automatic 1.6,Toyota,2017,5000000.0,114000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11913864,2026-08-27,Toyota Corolla  2021 Altis Grande X CVT-i 1.8 Beige Interior,Toyota,2021,6100000.0,60000,Petrol,Automatic,Sukkur,5M - 10M PKR,2021 to 2026
+11785907,2026-08-27,Toyota Vitz  2018 F 1.0,Toyota,2018,3629999.0,72000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913835,2026-08-27,Suzuki Cultus  2021 VXL,Suzuki,2021,3050000.0,147000,Petrol,Manual,Jhang,2M - 5M PKR,2021 to 2026
+11913858,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,5400000.0,66000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913853,2026-08-27,Nissan Dayz  2014 X,Nissan,2014,2380000.0,100000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913857,2026-08-27,Suzuki Alto  2025 VXR,Suzuki,2025,2930000.0,65000,Petrol,Manual,Mansehra,2M - 5M PKR,2021 to 2026
+11913852,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,5600000.0,37000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11576372,2026-08-27,Toyota Passo  2012 Plus Hana C,Toyota,2012,2599000.0,140000,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11913850,2026-08-27,Suzuki Alto  2005,Suzuki,2005,1250000.0,132000,Petrol,Automatic,Multan,Under 2M PKR,Pre-2010
+11913849,2026-08-27,Nissan AD Van  2006,Nissan,2006,1375000.0,1255,Petrol,Automatic,Bahawalpur,Under 2M PKR,Pre-2010
+11913847,2026-08-27,Hino 300 Series  2010,Hino,2010,7500000.0,98000,Diesel,Manual,Rawalpindi,5M - 10M PKR,2010 to 2015
+11913846,2026-08-27,Toyota Corolla  2016 GLi Automatic 1.3 VVTi,Toyota,2016,3500000.0,58000,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913844,2026-08-27,Daihatsu Rocky  2021 G,Daihatsu,2021,5750000.0,27000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11865442,2026-08-27,Honda City  2004 i-DSI Vario,Honda,2004,1689999.0,140500,Petrol,Automatic,Lahore,Under 2M PKR,Pre-2010
+11913843,2026-08-27,Toyota Hilux  2018 Revo V Automatic 2.8,Toyota,2018,9900000.0,159000,Diesel,Automatic,Lahore,5M - 10M PKR,2016 to 2020
+11644442,2026-08-27,Suzuki Cultus  2004 VXR,Suzuki,2004,830000.0,100000,Petrol,Manual,Jhelum,Under 2M PKR,Pre-2010
+11875092,2026-08-27,Toyota Aqua  2017 G GR Sports,Toyota,2017,6100000.0,113000,Hybrid,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11892069,2026-08-27,Suzuki Wagon R  2022 VXL,Suzuki,2022,3100000.0,20500,Petrol,Manual,Islamabad,2M - 5M PKR,2021 to 2026
+11913045,2026-08-27,Nissan Dayz  2019 X,Nissan,2019,3000000.0,91868,Petrol,Automatic,Karachi,2M - 5M PKR,2016 to 2020
+11913373,2026-08-27,Suzuki Cultus  2020 VXR,Suzuki,2020,2800000.0,80225,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11846472,2026-08-27,Honda Civic  2019 Oriel 1.8 i-VTEC CVT,Honda,2019,4900000.0,37378,Petrol,Automatic,Faisalabad,2M - 5M PKR,2016 to 2020
+11810232,2026-08-27,Jaecoo J5  2026 Premium,Jaecoo,2026,8450000.0,3115,Hybrid,Automatic,Rawalpindi,5M - 10M PKR,2021 to 2026
+11800676,2026-08-27,KIA Sportage  2020 AWD,KIA,2020,6400000.0,42184,Petrol,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11710245,2026-08-27,Toyota Corolla  2015 XLi VVTi,Toyota,2015,3200000.0,168122,Petrol,Manual,Karachi,2M - 5M PKR,2010 to 2015
+11374677,2026-08-27,Nissan Safari  1984,Nissan,1984,3200000.0,200000,Diesel,Manual,Islamabad,2M - 5M PKR,Pre-2010
+11436925,2026-08-27,Hyundai Elantra  2021 GLS,Hyundai,2021,5280000.0,76000,Petrol,Automatic,Islamabad,5M - 10M PKR,2021 to 2026
+11733362,2026-08-27,Suzuki Cultus  2021 VXR,Suzuki,2021,3250000.0,47401,Petrol,Manual,Multan,2M - 5M PKR,2021 to 2026
+11905456,2026-08-27,Honda Civic  2020 1.5 RS Turbo,Honda,2020,6700000.0,64382,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913842,2026-08-27,Toyota Corolla  2015 Altis Grande CVT-i 1.8,Toyota,2015,4650000.0,126000,Petrol,Automatic,Lahore,2M - 5M PKR,2010 to 2015
+11913840,2026-08-27,Toyota Raize  2021 Z,Toyota,2021,6000000.0,13000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913839,2026-08-27,Suzuki Cultus  2017 VXL,Suzuki,2017,2150000.0,225000,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11913834,2026-08-27,Suzuki Cultus  2017 VXL,Suzuki,2017,2785000.0,127000,Petrol,Manual,Rawalpindi,2M - 5M PKR,2016 to 2020
+11913832,2026-08-27,Hyundai Tucson  2022 AWD A/T Ultimate (Black Interior),Hyundai,2022,6500000.0,60000,Petrol,Automatic,Faisalabad,5M - 10M PKR,2021 to 2026
+11913791,2026-08-27,Audi A4  2017 35 TFSI,Audi,2017,7500000.0,132000,Petrol,Automatic,Karachi,5M - 10M PKR,2016 to 2020
+11913831,2026-08-27,Daihatsu Rocky  2021 G,Daihatsu,2021,5600000.0,57000,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913830,2026-08-27,Daihatsu Hijet  2011 Special M/T,Daihatsu,2011,1540000.0,233448,Petrol,Manual,Shadiwal,Under 2M PKR,2010 to 2015
+11913826,2026-08-27,Toyota Corolla  2009 Altis SR 1.8,Toyota,2009,3800000.0,100000,Petrol,Manual,Lahore,2M - 5M PKR,Pre-2010
+11913824,2026-08-27,Toyota Raize  2021 G,Toyota,2021,5300000.0,22700,Petrol,Automatic,Karachi,5M - 10M PKR,2021 to 2026
+11913819,2026-08-27,Suzuki Alto  2021 VXR,Suzuki,2021,2450000.0,70000,Petrol,Manual,Karachi,2M - 5M PKR,2021 to 2026
+11913823,2026-08-27,Toyota Corolla  2016 Altis Grande CVT-i 1.8,Toyota,2016,4900000.0,135000,Petrol,Automatic,Lahore,2M - 5M PKR,2016 to 2020
+11913822,2026-08-27,Honda City  2007 i-DSI,Honda,2007,1920000.0,175139,Petrol,Manual,Lahore,Under 2M PKR,Pre-2010
+11913800,2026-08-27,Toyota Corolla  2012 Altis Cruisetronic 1.6,Toyota,2012,3895000.0,71953,Petrol,Automatic,Islamabad,2M - 5M PKR,2010 to 2015
+11913809,2026-08-27,Suzuki Wagon R  2018 VXL,Suzuki,2018,2380000.0,15000,Petrol,Manual,Rawalpindi,2M - 5M PKR,2016 to 2020
+11810083,2026-08-27,Isuzu D-Max  2020 V-Cross Limited GTX Edition,Isuzu,2020,7990000.0,85000,Diesel,Automatic,Islamabad,5M - 10M PKR,2016 to 2020
+11913815,2026-08-27,Toyota Corolla 9th (E120) Generation 2008 XLi,Toyota,2008,1789999.0,180000,Petrol,Manual,Sargodha,Under 2M PKR,Pre-2010
+11913806,2026-08-27,Suzuki Swift  2018 DLX 1.3 Navigation,Suzuki,2018,2500000.0,50000,Petrol,Manual,Karachi,2M - 5M PKR,2016 to 2020
+11913810,2026-08-27,Honda Civic  2018 Oriel 1.8 i-VTEC CVT,Honda,2018,4890000.0,81000,Petrol,Automatic,Faisalabad,2M - 5M PKR,2016 to 2020
+11913814,2026-08-27,Suzuki Mehran  2019 VX Euro II,Suzuki,2019,1325000.0,76500,Petrol,Manual,Lahore,Under 2M PKR,2016 to 2020
+11883169,2026-08-27,Toyota Corolla  2017 GLi Automatic 1.3 VVTi,Toyota,2017,4575000.0,73000,Petrol,Automatic,Gujar Khan,2M - 5M PKR,2016 to 2020
+11789176,2026-08-27,Suzuki Swift  2025 GLX CVT,Suzuki,2025,4780000.0,25000,Petrol,Automatic,Bahawalpur,2M - 5M PKR,2021 to 2026
+11913807,2026-08-27,Mitsubishi Ek Wagon  2014,Mitsubishi,2014,2500000.0,95500,Petrol,Automatic,Rawalpindi,2M - 5M PKR,2010 to 2015
+11912534,2026-08-27,Honda City 6th (GM4) Generation 2021 1.2L M/T,Honda,2021,3875000.0,63000,Petrol,Manual,Lahore,2M - 5M PKR,2021 to 2026
+11627288,2026-08-27,Toyota Corolla  2019 Altis Grande CVT-i 1.8,Toyota,2019,5750000.0,90000,Petrol,Automatic,Lahore,5M - 10M PKR,2016 to 2020

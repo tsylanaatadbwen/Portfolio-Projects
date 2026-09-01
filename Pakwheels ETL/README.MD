@@ -78,6 +78,7 @@ Provides granular, record-level vehicle inspection with cross-report drill-throu
    cd pakwheels-market-analytics
 
 2. **Setup Python & Run Data Extraction:**
+ ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt

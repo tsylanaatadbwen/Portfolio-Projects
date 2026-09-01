@@ -76,7 +76,7 @@ Provides granular, record-level vehicle inspection with cross-report drill-throu
 ```bash
 git clone [https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git](https://github.com/tsylanaatadbwen/pakwheels-market-analytics.git)
 cd pakwheels-market-analytics
-
+```
 2. **Setup Python & Run Data Extraction:**
  ```bash
 python -m venv venv

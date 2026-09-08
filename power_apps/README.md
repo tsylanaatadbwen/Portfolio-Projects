@@ -1,4 +1,4 @@
-# Microsoft Teams Document Tracker & Power BI Dashboard
+# Microsoft Teams Document Tracker
 
 ![Automated Teams Document Tracking System](Automated%20Teams%20Document%20Tracking%20System.png)
 

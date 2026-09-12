@@ -1,7 +1,7 @@
 # Karachi Real Estate Market Intelligence
 **End-to-End Data Pipeline & Rental Valuation Analysis**
 
-![Dashboard Overview](<assets/dashboard_preview.png>)
+![Dashboard Overview](<images/dashboard_preview.png>)
 
 ## Executive Summary
 

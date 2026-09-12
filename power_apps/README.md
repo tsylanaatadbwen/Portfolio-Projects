@@ -1,6 +1,6 @@
 # Microsoft Teams Document Tracker
 
-![Automated Teams Document Tracking System](<images/Automated Teams Document Tracking System.png>)
+![Automated Teams Document Tracking System](<Automated Teams Document Tracking System.png>)
 
 ## Overview
 This project automates how file uploads are tracked in Microsoft Teams. Instead of manually copying file names and links into a spreadsheet, an automated workflow logs every document dropped into Teams, records who sent it and when, and displays the activity on a live Power BI dashboard.

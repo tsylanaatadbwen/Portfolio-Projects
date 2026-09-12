@@ -1,7 +1,9 @@
+
 # Sales Dashboard Power BI Project
 
-![Page 1](SalesReport.png)
-![Page 2](SalesOverview.png)
+<img width="1185" height="662" alt="SalesReport" src="https://github.com/user-attachments/assets/25fc65f2-f0a0-455d-875a-4866d3695713" />
+<img width="1165" height="652" alt="SalesOverview" src="https://github.com/user-attachments/assets/96802118-b356-455f-84ce-f2a072f2f8ab" />
+
 
 ## Objective
 To create a dynamic Sales Dashboard in Power BI, providing insightful visualizations and analytics for effective business decision-making. The primary goals include tracking revenue, identifying top-selling products, analyzing seasonal trends, and measuring performance against sales targets.

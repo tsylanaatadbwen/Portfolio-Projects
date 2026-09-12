@@ -4,7 +4,7 @@ An end-to-end operational intelligence engine built for fitness and wellness stu
 
 This system acts as an automated operations manager—monitoring studio performance 24/7, auditing class slot profitability against instructor pay, flagging low retention, and dispatching actionable AI schedule optimizations directly to team channels.
 
-![Studio Operations Digest Preview](<slack-momence.png>)
+![Studio Operations Digest Preview](slack-momence.png)
 
 ---
 

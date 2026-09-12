@@ -1,6 +1,6 @@
 # Enterprise Sales & Ledger Analytics Pipeline (Power BI / Power Query / DAX)
 
-![Dashboard Overview](<assets/dashboard_overview.png>)
+<img width="1377" height="732" alt="dashboard_overview" src="https://github.com/user-attachments/assets/8673e9cc-d2e1-4866-9af2-deb95540ecb2" />
 
 ## Executive Summary
 This repository contains an end-to-end data analytics and automated ingestion pipeline built in **Power BI**. The project solves a common enterprise data challenge: consolidating fragmented, multi-file monthly financial ledgers with dirty multi-row header metadata into a unified, scalable Star Schema data model with Month-over-Month (MoM) performance tracking.

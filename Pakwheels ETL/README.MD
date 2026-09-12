@@ -1,6 +1,6 @@
 # PakWheels End-to-End Automobile Market Analytics Pipeline
 
-![Page 1: Market Analysis](<assets/page1_market_analysis.png>)
+![Page 1: Market Analysis](assets/page1_market_analysis.png)
 
 ![Page 2: Geographic Analysis](assets/page2_geographic_analysis.png)
 

@@ -1,6 +1,7 @@
+
 ## Overview
 
-![Dashboard Overview](<Workflow.PNG>)
+<img width="1505" height="646" alt="Workflow" src="https://github.com/user-attachments/assets/b89db6b1-b55d-4b15-bf62-7fce134ad53b" />
 
 An automation workflow that fetches the latest tech videos from Marques Brownlee’s YouTube channel, extracts their transcripts, and analyzes them using OpenAI.
 The system summarizes each video, scores its ROI (value-for-money relevance), and explains how it aligns with user interests — all sent automatically via email.

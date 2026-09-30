@@ -1,4 +1,5 @@
 # Automated Meta Lead Acquisition & WhatsApp CRM Pipeline
+<img width="2752" height="1536" alt="ss1_lead_pipeline" src="https://github.com/user-attachments/assets/78981860-d2a4-41d6-a300-7ec129a1640c" />
 
 A 24/7 lead capture and automated messaging system that connects Meta Lead Ads to Google Sheets and the WhatsApp Business Cloud API. Built with Python and FastAPI, this system standardizes incoming parent inquiries in real time, logs them into a central CRM spreadsheet, sends a welcome message to applicants, and dispatches actionable alerts to campus staff with a 1-tap follow-up link.
 
@@ -11,7 +12,8 @@ A 24/7 lead capture and automated messaging system that connects Meta Lead Ads t
 
 | Google Sheets CRM Ingestion | Instant WhatsApp Admin Alert | Cloud Infrastructure Uptime |
 | :---: | :---: | :---: |
-| ![Google Sheets CRM](./images/googlesheets_crm.png) | ![WhatsApp Alert](./images/whatsapp_alert.png) | ![Railway Uptime](./images/railway_uptime.png) |
+| <img width="1917" height="877" alt="ss2_googlesheets" src="https://github.com/user-attachments/assets/84e6176e-0389-4fc3-9468-e2dad34f32b1" /> | <img width="425" height="450" alt="ss3_whatsapp_alert" src="https://github.com/user-attachments/assets/0145406a-3ee0-40f8-b047-26f50184aa13" /> | <img width="1896" height="782" alt="ss4_railway" src="https://github.com/user-attachments/assets/98d5823f-be2e-4357-881d-199fcfc8ffd4" />
+ |
 
 ---
 

@@ -13,7 +13,7 @@ A 24/7 lead capture and automated messaging system that connects Meta Lead Ads t
 | Google Sheets CRM Ingestion | Instant WhatsApp Admin Alert | Cloud Infrastructure Uptime |
 | :---: | :---: | :---: |
 | <img width="1917" height="877" alt="ss2_googlesheets" src="https://github.com/user-attachments/assets/84e6176e-0389-4fc3-9468-e2dad34f32b1" /> | <img width="425" height="450" alt="ss3_whatsapp_alert" src="https://github.com/user-attachments/assets/0145406a-3ee0-40f8-b047-26f50184aa13" /> | <img width="1896" height="782" alt="ss4_railway" src="https://github.com/user-attachments/assets/98d5823f-be2e-4357-881d-199fcfc8ffd4" />
- |
+
 
 ---
 

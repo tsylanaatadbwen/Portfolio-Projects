@@ -12,7 +12,7 @@ A 24/7 lead capture and automated messaging system that connects Meta Lead Ads t
 
 | Google Sheets CRM Ingestion | Google Sheets Executive Dashboard | Instant WhatsApp Admin Alert | Cloud Infrastructure Uptime |
 | :---: | :---: | :---: | :---: |
-| <img width="1811" height="872" alt="raw_leads_blu" src="https://github.com/user-attachments/assets/20353c25-e307-4cae-9294-5cf879b53c80" /> | <img width="1600" height="866" alt="exec_dash_blu" src="https://github.com/user-attachments/assets/02f25ba9-12c8-4d97-bb53-fa76f0fb4a71" /> | <img width="425" height="450" alt="ss3_whatsapp_alert" src="https://github.com/user-attachments/assets/0145406a-3ee0-40f8-b047-26f50184aa13" /> | <img width="1896" height="782" alt="ss4_railway" src="https://github.com/user-attachments/assets/98d5823f-be2e-4357-881d-199fcfc8ffd4" />
+| <img width="1811" height="872" alt="raw_leads_blu" src="https://github.com/user-attachments/assets/20353c25-e307-4cae-9294-5cf879b53c80" /> | <img width="1585" height="865" alt="exec_dash_blu" src="https://github.com/user-attachments/assets/90586955-0e6d-4abf-9534-95353ac5ce4d" /> | <img width="425" height="450" alt="ss3_whatsapp_alert" src="https://github.com/user-attachments/assets/0145406a-3ee0-40f8-b047-26f50184aa13" /> | <img width="1896" height="782" alt="ss4_railway" src="https://github.com/user-attachments/assets/98d5823f-be2e-4357-881d-199fcfc8ffd4" />
 
 
 ---
